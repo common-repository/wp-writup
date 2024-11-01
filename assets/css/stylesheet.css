@@ -1,0 +1,171 @@
+a:focus,
+button:focus,
+input:focus,
+textarea:focus,
+.btn:focus {
+  outline: none!important;
+  box-shadow:none!important;
+}
+.wrap {
+    margin: 10px 20px 20px 2px;
+}
+#loading{
+    display:none;
+    margin-top:32px;
+}
+#loading .dual-ring {
+    width: 50px;
+    height: 50px;
+    margin-left: -25px;
+    margin-top: -25px;
+    display: inline-block;
+    content: " ";
+    display: block;
+    margin: 1px;
+    border-radius: 50%;
+    border: 5px solid #f86743;
+    border-color:#f86743 transparent #f86743 transparent;
+    animation: dual-ring 1.2s linear infinite;
+    margin: auto;
+}
+/*
+svg{
+    height:0px;
+    width:0px;
+}
+*/
+@keyframes dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+.SimpleModalJs select{
+    height:auto;
+    font-size: 14px;
+    box-shadow: none;
+    line-height: 1rem;
+    width: 100%;
+    padding: 0.60rem 0.75rem;
+    outline: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(225, 229, 237);
+    border-radius: 4px;
+    transition: all 0.2s ease-in-out 0s;
+}
+.SimpleModalJs select:disabled{
+    background:#efefef;
+}
+.SimpleModalJs label{
+    display: block;
+    font-size: 14px;
+    font-weight:400;
+    color: #f86743;
+    margin: 0.5rem 0px;
+    cursor:default;
+}
+.SimpleModalJs input {
+    font-size: 14px;
+    box-shadow: none;
+    line-height: 1rem;
+    width: 100%;
+    padding: 0.75rem;
+    outline: none;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(225, 229, 237);
+    border-radius: 4px;
+}
+.SimpleModalJs #rank4win_logo_svg{
+    height:17px
+}
+.SimpleModalJs .logo_black .rank4win_logo_svg-1{
+    fill:#2f2c2c
+}
+.SimpleModalJs .rank4win_logo_svg-2{
+    fill:#fff
+}
+.SimpleModalJs .css-1g97g96 {
+    display: inline-flex;
+    -webkit-font-smoothing: antialiased;
+    vertical-align: middle;
+    text-align: center;
+    -webkit-appearance: none;
+    cursor: pointer;
+    font-family: inherit;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    font-weight: bold;
+    background-color: #565656;
+    color:#fff;
+    font-size: 14px;
+    margin-top: 32px;
+    outline: none;
+    text-decoration: none;
+    transition: all 0.2s ease-in-out 0s;
+    border-width: 0px;
+    border-radius: 4px;
+    border-color: #0c2f55;
+    padding: 16px;
+    width: 100%;
+}
+.SimpleModalJs .css-1g97g96:hover{
+    background:#f86743
+}
+.SimpleModalJs .logo{
+    margin-bottom:10px;
+}
+.SimpleModalJs #rank4win_logo_svg{
+    height:30px
+}
+.SimpleModalJs .rank4win_logo_svg-1{
+    fill:#ffffff
+}
+.SimpleModalJs .rank4win_logo_svg-2{
+    fill:#f98366
+}
+.SimpleModalJs input[type=email].ui-autocomplete-loading, .SimpleModalJs input[type=text].ui-autocomplete-loading {
+    background-image: url(../../assets/svg/load_input.svg);
+    background-position: right 10px center;
+    background-size: 30px;
+}
+.SimpleModalJs .css-sfjdsj66526 {
+    background: #565656;
+    padding: 10px;
+    display: flex;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.SimpleModalJs .css-d5uyr66 {
+    margin: auto;
+    margin-right: 20px;
+    margin-left: 0;
+}
+.SimpleModalJs .css-d5uyr66 svg {
+    height: 30px;
+    width: auto;
+    fill: #fff;
+}
+.SimpleModalJs .css-opdeki582ed {
+    font-weight: bold;
+}
+.SimpleModalJs .css-d5f8ze2fg {
+    margin-top: 10px;
+    font-weight: 600;
+}
+.SimpleModalJ a.css-d3f24ef4 {
+    color: #fff;
+    text-decoration: none;
+}
+.SimpleModalJs a.css-d3f24ef4:hover .css-sfjdsj66526 {
+    background: #f86743;
+}
+#f60ee7b9-86a6-467e-a050-8bdb32a592f5{
+    display:none;
+}

@@ -1,0 +1,2809 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Writup\n"
+"POT-Creation-Date: 2019-09-13 12:26+0200\n"
+"PO-Revision-Date: 2019-09-13 12:26+0200\n"
+"Last-Translator: Jrm Tdc <jrm@tiensdonc.com>\n"
+"Language-Team: Jrm Tdc <jrm@tiensdonc.com>\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpwritup.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: tpl/box_finish/contained.tpl:7
+msgid "becomes"
+msgstr "devient"
+
+#: tpl/box_finish/contained.tpl:13
+msgid ""
+"WP Writup was the starting point for an extraordinary technology that "
+"revolutionized the world of SEO. Created in 2017 by SEO Dailycom Lab, this "
+"adventure has grown and enriched to become a better version of itself. "
+"Today, WP Writup becomes Rank4win and gives you even more features"
+msgstr ""
+"WP Writup a été le point de départ d'une technologie extraordinaire qui a "
+"révolutionné le monde du référencement naturel. Crée en 2017 par le "
+"laboratoire SEO Dailycom, cette aventure s'est développée et enrichie pour "
+"devenir une meilleure version d'elle-même. Aujourd'hui, WP Writup devient "
+"Rank4win et vous offre encore plus de fonctionnalités"
+
+#: tpl/box_finish/contained.tpl:14
+msgid ""
+"Rank4win is a Wordpress SEO plugin that allows every website owner to easily "
+"and quickly create a keyword strategy and semantic structure. Thanks to it, "
+"the natural referencing is reinforced and the editors have unique tools "
+"allowing the optimization as well as the lexical and semantic enrichment of "
+"their contents"
+msgstr ""
+"Rank4win est un plugin SEO Wordpress qui permet à chaque propriétaire de "
+"site web de créer facilement et rapidement une stratégie de mots clés et une "
+"structure sémantique. Grâce à lui, le référencement naturel est renforcé et "
+"les rédacteurs disposent d'outils uniques permettant l'optimisation ainsi "
+"que l'enrichissement lexical et sémantique de leurs contenus"
+
+#: tpl/box_finish/contained.tpl:17
+msgid "Build your keyword strategy"
+msgstr "Construisez votre stratégie de mots-clés"
+
+#: tpl/box_finish/contained.tpl:18
+msgid "Build your semantic structure"
+msgstr "Construisez votre structure sémantique"
+
+#: tpl/box_finish/contained.tpl:19
+msgid "Workflow for writers"
+msgstr "Workflow pour les écrivains"
+
+#: tpl/box_finish/contained.tpl:20
+msgid "Optimization of content writing for SEO"
+msgstr "Optimisation de la rédaction de contenu pour le référencement"
+
+#: tpl/box_finish/contained.tpl:23
+msgid ""
+"Continue the WP WRITUP adventure in 100x more powerful mode by joining "
+"Rank4win"
+msgstr ""
+"Continuez l'aventure de WP WRITUP en mode 100 fois plus puissant en "
+"rejoignant Rank4win"
+
+#: tpl/box_finish/contained.tpl:27
+msgid "Download rank4win"
+msgstr "Télécharger Rank4win"
+
+#. Plugin Name of the plugin/theme
+#. Author of the plugin/theme
+msgid "WP Writup"
+msgstr "WP Writup"
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://wp-writup.fr"
+msgstr "https://wp-writup.fr"
+
+#. Description of the plugin/theme
+msgid ""
+"WP Writup becomes rank4win, powerful, with new tools. Available in the "
+"plugins library, we invite you to download it. When rank4win is activated "
+"this plugin is automatically disabled."
+msgstr ""
+"WP Writup devient rank4win, puissant, performant avec de nouveaux outils. "
+"Disponible dans la bibliothèque de plugins, nous vous invitons à le "
+"télécharger. Quand rank4win est activé ce plugin se désactive "
+"automatiquement."
+
+#~ msgid "Learn more"
+#~ msgstr "En savoir plus"
+
+#~ msgid "Application"
+#~ msgstr "Application"
+
+#~ msgid "What is Rank4win"
+#~ msgstr "Qu'est-ce que Rank4win"
+
+#~ msgid "WP Writup becomes Rank4win"
+#~ msgstr "WP Writup devient Rank4win"
+
+#~ msgid "Account and subscription management"
+#~ msgstr "Gestion du compte et de vos abonnements"
+
+#~ msgid ""
+#~ "Manage your account and this information, manage your subscription and "
+#~ "recover your bills"
+#~ msgstr ""
+#~ "Gérez votre compte et ses informations, gérez votre abonnement et "
+#~ "récupérez vos factures"
+
+#~ msgid "Account"
+#~ msgstr "Compte"
+
+#~ msgid "Your invoices"
+#~ msgstr "Vos factures"
+
+#~ msgid "Your wordpress"
+#~ msgstr "Vos wordpress"
+
+#~ msgid "Sign in with another account"
+#~ msgstr "Se connecter avec un autre compte"
+
+#~ msgid "Account Details"
+#~ msgstr "Détails du compte"
+
+#~ msgid ""
+#~ "Be sure to keep all your information up-to-date and rectify it at the "
+#~ "slightest change"
+#~ msgstr ""
+#~ "Assurez-vous de garder toutes vos informations à jour et de les rectifier "
+#~ "au moindre changement"
+
+#~ msgid "Type of account"
+#~ msgstr "Type de compte"
+
+#~ msgid "Individual"
+#~ msgstr "Particulier"
+
+#~ msgid "Professional"
+#~ msgstr "Professionnel"
+
+#~ msgid "Firstname"
+#~ msgstr "Prénom"
+
+#~ msgid "Lastname"
+#~ msgstr "Nom"
+
+#~ msgid "Company Name"
+#~ msgstr "Nom de la compagnie"
+
+#~ msgid "Address"
+#~ msgstr "Adresse"
+
+#~ msgid "Phone"
+#~ msgstr "Téléphone"
+
+#~ msgid "Update"
+#~ msgstr "Mettre à jour"
+
+#~ msgid "Manage your account"
+#~ msgstr "Gérer votre compte"
+
+#~ msgid "Subscription"
+#~ msgstr "Abonnement"
+
+#~ msgid "Reactivate subscription"
+#~ msgstr "Réactiver l'abonnement"
+
+#~ msgid "Manage your subscription"
+#~ msgstr "Gérer votre abonnement"
+
+#~ msgid "You currently have no subscription, you benefit from the free offer"
+#~ msgstr ""
+#~ "Vous n'avez actuellement aucun abonnement, vous bénéficiez de l'offre "
+#~ "gratuite"
+
+#~ msgid "Choose a subscription"
+#~ msgstr "Choisissez un abonnement"
+
+#~ msgid "Date"
+#~ msgstr "Date"
+
+#~ msgid "Bill number"
+#~ msgstr "Numéro de facture"
+
+#~ msgid "Amount"
+#~ msgstr "Montant"
+
+#~ msgid "List of your wordpress"
+#~ msgstr "Liste de vos wordpress"
+
+#~ msgid "Add a subscription to this wordpress"
+#~ msgstr "Ajouter un abonnement à ce wordpress"
+
+#~ msgid ""
+#~ "Linking this wordpress to your subscription uses an available location. "
+#~ "Deleting the wordpress from your subscription will only take effect on "
+#~ "your next bill"
+#~ msgstr ""
+#~ "Lier ce wordpress à votre abonnement utilise un emplacement disponible. "
+#~ "La suppression d'un wordpress à votre abonnement ne prend effet que lors "
+#~ "de votre prochaine facturation"
+
+#~ msgid "Add this wordpress to your subscription"
+#~ msgstr "Ajouter ce wordpress à votre abonnement"
+
+#~ msgid ""
+#~ "Your current subscription does not allow you to benefit from wordpress, "
+#~ "add an additional wordpress or change your subscription"
+#~ msgstr ""
+#~ "Votre abonnement actuel ne vous permet pas de bénéficier d'avantage de "
+#~ "wordpress, ajouter un wordpress supplémentaire ou modifier votre "
+#~ "abonnement"
+
+#~ msgid "Change your subscription"
+#~ msgstr "Changer votre abonnement"
+
+#~ msgid ""
+#~ "You do not have any subscription, subscribe to one of our offers, you can "
+#~ "then associate a wordpress to your subscription"
+#~ msgstr ""
+#~ "Vous n'avez pas d'abonnement, abonnez-vous à l'une de nos offres, vous "
+#~ "pouvez ensuite associer un wordpress à votre abonnement"
+
+#~ msgid "Subscribe to a subscription"
+#~ msgstr "S'abonner à un abonnement"
+
+#~ msgid "Wordpress associated with the account"
+#~ msgstr "Wordpress associé à votre compte"
+
+#~ msgid "Wordpress associated with the subscription"
+#~ msgstr "Wordpress associé à votre abonnement"
+
+#~ msgid "Analysis and summary of your website"
+#~ msgstr ""
+#~ "Suivi du trafic organique de votre site et étude de votre concurrence"
+
+#~ msgid ""
+#~ "Our tools analyze your site and Internet route to provide you with data "
+#~ "on your reputation and that of your competitors"
+#~ msgstr ""
+#~ "Nous analysons le web pour vous fournir les données de votre trafic "
+#~ "organique et les informations importantes concernent la concurrence"
+
+#~ msgid "Summary"
+#~ msgstr "Résumé"
+
+#~ msgid "Website analysis"
+#~ msgstr "Analyse du site"
+
+#~ msgid "Organic research analysis"
+#~ msgstr "Liste des mots clés qui vous rapportent du trafic organique"
+
+#~ msgid "Competition analysis"
+#~ msgstr "Analyse de la concurrence"
+
+#~ msgid "with no score"
+#~ msgstr "sans score"
+
+#~ msgid "with a very poor score"
+#~ msgstr "avec un très mauvais score"
+
+#~ msgid "with a bad score"
+#~ msgstr "avec un mauvais score"
+
+#~ msgid "with a good score"
+#~ msgstr "avec un bon score"
+
+#~ msgid "with a perfect score"
+#~ msgstr "avec un score parfait"
+
+#~ msgid "Improve your score"
+#~ msgstr "Améliorer votre score"
+
+#~ msgid "Dont have an account"
+#~ msgstr "Je n'ai pas de compte"
+
+#~ msgid "Sign up here"
+#~ msgstr "Inscrivez-vous ici"
+
+#~ msgid ""
+#~ "Please enter your email address and we will send you an email to reset "
+#~ "your password"
+#~ msgstr ""
+#~ "Veuillez entrer votre adresse email et nous vous enverrons un email pour "
+#~ "réinitialiser votre mot de passe"
+
+#~ msgid "Email Address"
+#~ msgstr "Adresse électronique"
+
+#~ msgid "Reset Password"
+#~ msgstr "Réinitialiser le mot de passe"
+
+#~ msgid "Already have an account"
+#~ msgstr "Vous avez déjà un compte"
+
+#~ msgid "Login here"
+#~ msgstr "Connectez-vous ici"
+
+#~ msgid "Password"
+#~ msgstr "Mot de passe"
+
+#~ msgid "Forgot"
+#~ msgstr "Oublié"
+
+#~ msgid "Login Now"
+#~ msgstr "Connecte-toi maintenant"
+
+#~ msgid "Terms of Service"
+#~ msgstr "Conditions d'utilisation"
+
+#~ msgid "Privacy Policy"
+#~ msgstr "Politique de confidentialité"
+
+#~ msgid "Verification code"
+#~ msgstr "Code de vérification"
+
+#~ msgid "Check your code"
+#~ msgstr "Vérifiez votre code"
+
+#~ msgid "New password"
+#~ msgstr "Nouveau mot de passe"
+
+#~ msgid "Confirm new password"
+#~ msgstr "Confirmer le nouveau mot de passe"
+
+#~ msgid "Change your password"
+#~ msgstr "Changez votre mot de passe"
+
+#~ msgid "Confirm Password"
+#~ msgstr "Confirmez le mot de passe"
+
+#~ msgid "Create Account"
+#~ msgstr "Créer un compte"
+
+#~ msgid "This wordpress is not associated with your Rank4Win account"
+#~ msgstr "Ce wordpress n'est pas associé à votre compte Rank4Win"
+
+#~ msgid "To continue, you must link this wordpress to your account"
+#~ msgstr "Pour continuer, vous devez associer ce wordpress à votre compte"
+
+#~ msgid "Associated this wordpress"
+#~ msgstr "Associé ce wordpress"
+
+#~ msgid "Questioning"
+#~ msgstr "Questionnements"
+
+#~ msgid ""
+#~ "What people search on search engines. This will allow you to target "
+#~ "useful topics and, at the same time, significantly increase your traffic "
+#~ "as well as your notoriety with your readers"
+#~ msgstr ""
+#~ "Ce que les gens recherchent sur les moteurs de recherche. Cela vous "
+#~ "permettra de cibler des sujets utiles tout en augmentant considérablement "
+#~ "votre trafic et votre notoriété auprès de vos lecteurs"
+
+#~ msgid "Optimize my content"
+#~ msgstr "Optimiser mon contenu"
+
+#~ msgid "Add your lexical keywords"
+#~ msgstr "Ajoutez vos mots-clés lexicaux"
+
+#~ msgid ""
+#~ "Lexical keywords are terms related to your primary and secondary "
+#~ "keywords, which are intended only to show search engines that you "
+#~ "understand all the vocabulary surrounding the topic"
+#~ msgstr ""
+#~ "Les mots-clés lexicaux sont des termes associés à vos mots-clés "
+#~ "principaux et secondaires. Ils ont pour seul but de montrer aux moteurs "
+#~ "de recherche que vous comprenez tout le vocabulaire entourant le sujet"
+
+#~ msgid "Your keyword select"
+#~ msgstr "Votre mot-clé select"
+
+#~ msgid "Continue"
+#~ msgstr "Continuer"
+
+#~ msgid "Add your main keyword"
+#~ msgstr "Ajoutez votre mot clé principal"
+
+#~ msgid ""
+#~ "The first thing to do is to choose the \"right\" main keyword to position "
+#~ "your web pages. Remember that this is a crucial phase for your SEO"
+#~ msgstr ""
+#~ "La première chose à faire est de choisir le mot-clé principal pour "
+#~ "positionner vos pages Web. Rappelez-vous qu'il s'agit d'une phase "
+#~ "cruciale pour votre référencement"
+
+#~ msgid "Main keyword"
+#~ msgstr "Mot clé principal"
+
+#~ msgid "Add your secondary keywords"
+#~ msgstr "Ajoutez vos mots-clés secondaires"
+
+#~ msgid ""
+#~ "Secondary keywords are variations of your main keyword. They are useful "
+#~ "for enriching the semantics of your content, not to mention that they are "
+#~ "the best way for Google to notice you and appreciate your news"
+#~ msgstr ""
+#~ "Les mots clés secondaires sont des variantes de votre mot clé principal. "
+#~ "Ils sont utiles pour enrichir la sémantique de votre contenu, sans "
+#~ "oublier qu'ils constituent le meilleur moyen pour Google de vous "
+#~ "remarquer et d'apprécier votre actualité"
+
+#~ msgid "Suggestion of keywords"
+#~ msgstr "Suggestion de mots-clés"
+
+#~ msgid "Synonymous"
+#~ msgstr "Synonyme"
+
+#~ msgid "Analyzes semantics"
+#~ msgstr "Analyse sémantique"
+
+#~ msgid "Overall score"
+#~ msgstr "Score global"
+
+#~ msgid "Configuration"
+#~ msgstr "Configuration"
+
+#~ msgid "Search engine"
+#~ msgstr "Moteur de recherche"
+
+#~ msgid "You can configure the page for search engines"
+#~ msgstr "Vous pouvez configurer la page pour les moteurs de recherche"
+
+#~ msgid "Allow search engines to index this page"
+#~ msgstr "Autoriser les moteurs de recherche à indexer cette page"
+
+#~ msgid "This option allows you to ask search engines to index this page"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d’indexer "
+#~ "cette page"
+
+#~ msgid "Allow search engines to follow the links in the page"
+#~ msgstr "Autoriser les moteurs de recherche à suivre les liens de la page"
+
+#~ msgid "This option provides a guideline for links to search engine robots"
+#~ msgstr ""
+#~ "Cette option fournit un guide pour les liens vers les robots des moteurs "
+#~ "de recherche"
+
+#~ msgid "Customize meta robots"
+#~ msgstr "Personnaliser les robots méta"
+
+#~ msgid "No archive"
+#~ msgstr "Pas d'archive"
+
+#~ msgid "No index for images"
+#~ msgstr "Image non indexées"
+
+#~ msgid "No meta data"
+#~ msgstr "Pas de métadonnées"
+
+#~ msgid "Canonical URL"
+#~ msgstr "URL canonique"
+
+#~ msgid ""
+#~ "Allows you to set up the social network to provide a better user "
+#~ "experience and optimize your sharings"
+#~ msgstr ""
+#~ "Ce paramètre vous permet de configurer le réseau social pour offrir une "
+#~ "meilleure expérience utilisateur et optimiser vos partages"
+
+#~ msgid "Meta Title"
+#~ msgstr "Méta-Titre"
+
+#~ msgid "Meta Description"
+#~ msgstr "Méta-Description"
+
+#~ msgid "Metadata"
+#~ msgstr "Métadonnées"
+
+#~ msgid "You can customize your meta title and description for the page"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta titre et la description de la page"
+
+#~ msgid "When no tag is specified, we use the default meta tags"
+#~ msgstr ""
+#~ "Lorsqu'aucune balise n'est spécifiée, nous utilisons les balises META par "
+#~ "défaut"
+
+#~ msgid "Links of sister pages"
+#~ msgstr "Liens des pages sœurs"
+
+#~ msgid ""
+#~ "You can use a shortcode to display the links of the sister pages, when "
+#~ "there are sister pages, you can change the display name of the links"
+#~ msgstr ""
+#~ "Vous pouvez utiliser un shortcode pour afficher les liens des pages "
+#~ "sœurs. Lorsqu'il existe des pages sœurs, vous pouvez modifier le nom "
+#~ "d'affichage des liens"
+
+#~ msgid "Shortcode to use to display sister pages links"
+#~ msgstr "Shortcode à utiliser pour afficher les liens des pages sœurs"
+
+#~ msgid "Customize the text above the links"
+#~ msgstr "Personnaliser le texte au dessus des liens"
+
+#~ msgid ""
+#~ "This option allows you to customize which will be displayed before the "
+#~ "links. If you do not want to display anything before the links, just "
+#~ "check this box without indicating any text"
+#~ msgstr ""
+#~ "Cette option vous permet de personnaliser ce qui sera affiché avant les "
+#~ "liens. Si vous ne voulez rien afficher avant les liens, cochez simplement "
+#~ "cette case sans indiquer de texte"
+
+#~ msgid "Text above the links"
+#~ msgstr "Texte au dessus des liens"
+
+#~ msgid "Semantic analysis"
+#~ msgstr "Analyse sémantique"
+
+#~ msgid ""
+#~ "Search engines might understand your texts differently than you would "
+#~ "like. We will analyze and tell you what they understand"
+#~ msgstr ""
+#~ "Les moteurs de recherche peuvent comprendre vos textes différemment de ce "
+#~ "que vous souhaiteriez. Nous allons analyser et vous dire ce qu'ils "
+#~ "comprennent"
+
+#~ msgid "Perform an analysis"
+#~ msgstr "Effectuer une analyse"
+
+#~ msgid ""
+#~ "The synonyms can find terms more adapted to the context than those used "
+#~ "spontaneously. It also avoids a repetition of words in the same text to "
+#~ "improve the style of its writing"
+#~ msgstr ""
+#~ "Les synonymes peuvent trouver des termes plus adaptés au contexte que "
+#~ "ceux utilisés spontanément. Cela évite également une répétition de mots "
+#~ "dans le même texte pour améliorer le style de son écriture"
+
+#~ msgid "Semantic structure is used"
+#~ msgstr "La structure sémantique est utilisée"
+
+#~ msgid ""
+#~ "A user has just taken hold of this semantic structure, what would you "
+#~ "like to do ?"
+#~ msgstr ""
+#~ "Un utilisateur vient de s'emparer de cette structure sémantique, que "
+#~ "souhaitez-vous faire?"
+
+#~ msgid "Leave the hand"
+#~ msgstr "Laisser la main"
+
+#~ msgid "Take the hand"
+#~ msgstr "Prendre la main"
+
+#~ msgid "Deploy the semantic structure on wordpress"
+#~ msgstr "Déployer la structure sémantique sur wordpress"
+
+#~ msgid ""
+#~ "You can deploy your semantic structure on your wordpress, the pages will "
+#~ "be created with an editorial template"
+#~ msgstr ""
+#~ "Vous pouvez déployer votre structure sémantique sur votre wordpress, les "
+#~ "pages seront créées avec un modèle éditorial"
+
+#~ msgid "How to deploy your structure"
+#~ msgstr "Comment déployer votre structure"
+
+#~ msgid "Delete and create new page"
+#~ msgstr "Supprime et créer de nouvelles pages"
+
+#~ msgid "Rearrange and create new page"
+#~ msgstr "Réorganise et créer de nouvelle page"
+
+#~ msgid ""
+#~ "Delete existing pages and their contents before creating the pages of "
+#~ "your semantic structure"
+#~ msgstr ""
+#~ "Supprime les pages existantes et leur contenu avant de créer les pages de "
+#~ "votre structure sémantique"
+
+#~ msgid ""
+#~ "Rearrange existing pages without changing their content, new page pages "
+#~ "will be created"
+#~ msgstr ""
+#~ "Réorganise les pages existantes sans en changer le contenu, les nouvelles "
+#~ "pages seront créées"
+
+#~ msgid ""
+#~ "Create only the pages of your semantic structure, the existing pages will "
+#~ "not delete or rearrange"
+#~ msgstr ""
+#~ "Créez uniquement les pages de votre structure sémantique, les pages "
+#~ "existantes ne seront ni supprimées ni réorganisées"
+
+#~ msgid "Deploy"
+#~ msgstr "Déployer"
+
+#~ msgid "Creating pages in wordpress"
+#~ msgstr "Création des pages dans wordpress"
+
+#~ msgid ""
+#~ "Please wait while we create your pages, this may take several minutes"
+#~ msgstr ""
+#~ "Veuillez patienter pendant que nous créons vos pages, cela peut prendre "
+#~ "plusieurs minutes"
+
+#~ msgid "See the pages"
+#~ msgstr "Voir les pages"
+
+#~ msgid "You have no deployment available"
+#~ msgstr "Vous n'avez pas de déploiement disponible"
+
+#~ msgid "Please choose one of the following options"
+#~ msgstr "Veuillez choisir l'une des options suivantes"
+
+#~ msgid "Pay an additional deployment"
+#~ msgstr "Payer un déploiement supplémentaire"
+
+#~ msgid ""
+#~ "You will have an additional deployment, valid only once for a single "
+#~ "semantic structure"
+#~ msgstr ""
+#~ "Vous aurez un déploiement supplémentaire, valable une seule fois pour une "
+#~ "seule structure sémantique"
+
+#~ msgid "Waiting for subscription renewal"
+#~ msgstr "Attendre le renouvellement de l'abonnement"
+
+#~ msgid ""
+#~ "You have used your deployments available in your offer, you must wait for "
+#~ "your next billing to receive additional deployments"
+#~ msgstr ""
+#~ "Vous avez utilisé vos déploiements disponibles dans votre offre, vous "
+#~ "devez attendre votre prochaine facturation pour recevoir des déploiements "
+#~ "supplémentaires"
+
+#~ msgid ""
+#~ "Upgrade to the higher version by choosing a subscription, you will have "
+#~ "the advantages prenium in addition to your deployments"
+#~ msgstr ""
+#~ "Passez à la version supérieure en choisissant un abonnement, vous "
+#~ "bénéficierez des avantages premium en plus de vos déploiements"
+
+#~ msgid "Add to your subscription"
+#~ msgstr "Ajouter à votre abonnement"
+
+#~ msgid ""
+#~ "If you still have wordpress available in your subscription you can this "
+#~ "wordpress and benefit benefits prenium"
+#~ msgstr ""
+#~ "Si vous avez des wordpress disponible dans votre abonnement, vous pouvez "
+#~ "ajouter ce wordpress et bénéficier d'avantages prenium"
+
+#~ msgid "A deployment in progress"
+#~ msgstr "Un déploiement en cours"
+
+#~ msgid ""
+#~ "A semantic structure is being deployed on this wordpress. To avoid "
+#~ "conflict, you must wait until the deployment is complete or stop the "
+#~ "deployment to perform a new deployment"
+#~ msgstr ""
+#~ "Une structure sémantique est en cours de déploiement sur ce wordpress. "
+#~ "Pour éviter les conflits, vous devez attendre la fin du déploiement ou "
+#~ "arrêter le déploiement pour effectuer un nouveau déploiement"
+
+#~ msgid "Stop the deployment"
+#~ msgstr "Arrêtez le déploiement"
+
+#~ msgid "Edit the author of this page"
+#~ msgstr "Modifier l'auteur de cette page"
+
+#~ msgid "Select an author"
+#~ msgstr "Sélectionnez un auteur"
+
+#~ msgid "Validate"
+#~ msgstr "Valider"
+
+#~ msgid "Protected mode"
+#~ msgstr "Mode protégé"
+
+#~ msgid "Saved structure"
+#~ msgstr "Structure sauvegardée"
+
+#~ msgid "Backup in progress"
+#~ msgstr "Sauvegarde en cours"
+
+#~ msgid "Unsaved structure"
+#~ msgstr "Structure non sauvegardée"
+
+#~ msgid "Suggestion"
+#~ msgstr "Suggestions"
+
+#~ msgid "Related"
+#~ msgstr "En relation"
+
+#~ msgid "Title 1 (H1): must contain the main keyword of the page"
+#~ msgstr "Titre 1 (H1): doit contenir le mot clé principal de la page"
+
+#~ msgid ""
+#~ "This paragraph must be clear and effective. Remember that it must contain "
+#~ "a link to the page"
+#~ msgstr ""
+#~ "Ce paragraphe doit être clair et efficace. Rappelez-vous qu'il doit "
+#~ "contenir un lien vers la page"
+
+#~ msgid ""
+#~ "The goal here is to make your visitor want to read your article in full. "
+#~ "Remember that it must have the main keyword in bold, like this"
+#~ msgstr ""
+#~ "Le but ici est de donner envie à votre visiteur de lire votre article en "
+#~ "entier. Rappelez-vous qu'il doit avoir le mot-clé principal en gras, "
+#~ "comme ceci"
+
+#~ msgid ""
+#~ "Know that 95% of Internet users read a hat in full so it is not too late "
+#~ "to do well"
+#~ msgstr ""
+#~ "Sachez que 95% des internautes lisent un bonnet en entier, donc il n'est "
+#~ "pas trop tard pour bien faire"
+
+#~ msgid "Title 2 (H2): Must contain the secondary keyword of the page"
+#~ msgstr "Titre 2 (H2): Doit contenir le mot-clé secondaire de la page"
+
+#~ msgid ""
+#~ "In these paragraphs you will start to argue and set up your editorial "
+#~ "strength, feel free to use a rich vocabulary, you have the synonyms, the "
+#~ "complementary keywords too, made so to meet the expectations of the reader"
+#~ msgstr ""
+#~ "Dans ces paragraphes, vous allez commencer à argumenter et à mettre en "
+#~ "place votre force éditoriale, n'hésitez pas à utiliser un vocabulaire "
+#~ "enrichi, vous avez les synonymes, les mots clés complémentaires aussi, "
+#~ "afin de répondre aux attentes du lecteur"
+
+#~ msgid "Title 3 (H3): must contain the lexical keyword of the page"
+#~ msgstr "Titre 3 (H3): doit contenir le mot-clé lexical de la page"
+
+#~ msgid "Title 4 (H4) Blabla ....."
+#~ msgstr "Titre 4 (H4) Blabla ....."
+
+#~ msgid ""
+#~ "In this paragraph you will develop further and make subpoints, subtitles, "
+#~ "sub-arguments and prove to search engines that you master all the "
+#~ "vocabulary of your theme"
+#~ msgstr ""
+#~ "Dans ce paragraphe, vous allez développer davantage et faire des sous-"
+#~ "points, sous-titres, sous-arguments et prouver aux moteurs de recherche "
+#~ "que vous maîtrisez le vocabulaire de votre thème"
+
+#~ msgid "Identify and solve problems"
+#~ msgstr "Identifiez et résolvez les problèmes"
+
+#~ msgid ""
+#~ "If you have problems using our plugin, we can try to identify and fix them"
+#~ msgstr ""
+#~ "Si vous rencontrez des problèmes lors de l'utilisation de notre plugin, "
+#~ "nous pouvons essayer de les identifier et de les résoudre"
+
+#~ msgid "Set up the plugin according to your needs"
+#~ msgstr "Configurez le plugin selon vos besoins"
+
+#~ msgid ""
+#~ "You can set the plugin according to your needs, enable or disable certain "
+#~ "functionality"
+#~ msgstr ""
+#~ "Vous pouvez configurer le plugin selon vos besoins, activer ou désactiver "
+#~ "certaines fonctionnalités"
+
+#~ msgid "General settings"
+#~ msgstr "Paramètres généraux"
+
+#~ msgid "Seo settings"
+#~ msgstr "Paramètres SEO"
+
+#~ msgid "Social networks"
+#~ msgstr "Réseaux sociaux"
+
+#~ msgid "Tools"
+#~ msgstr "Outils"
+
+#~ msgid "Different backup on the cloud"
+#~ msgstr "Sauvegarde différente sur le cloud"
+
+#~ msgid ""
+#~ "The backup of your settings in the cloud is different from your settings "
+#~ "stored on this wordpress"
+#~ msgstr ""
+#~ "La sauvegarde de vos paramètres dans le cloud est différente de vos "
+#~ "paramètres stockés sur ce wordpress"
+
+#~ msgid "Use cloud data"
+#~ msgstr "Utiliser les données du cloud"
+
+#~ msgid ""
+#~ "Deletes the data on this wordpress and replace it with the data stored in "
+#~ "the cloud"
+#~ msgstr ""
+#~ "Supprime les données sur ce wordpress et les remplace par les données "
+#~ "stockées dans le cloud"
+
+#~ msgid "Last backup"
+#~ msgstr "Dernière sauvegarde"
+
+#~ msgid "Use the data of this wordpress"
+#~ msgstr "Utiliser les données de ce wordpress"
+
+#~ msgid ""
+#~ "Delete your backup in the cloud and replace it with the data stored on "
+#~ "this wordpress"
+#~ msgstr ""
+#~ "Supprime votre sauvegarde dans le cloud et la remplace par les données "
+#~ "stockées sur ce wordpress"
+
+#~ msgid "new installation"
+#~ msgstr "nouvelle installation"
+
+#~ msgid "Language"
+#~ msgstr "Langue du site"
+
+#~ msgid "Choice of language and country"
+#~ msgstr "Choisissez le pays et la langue de votre site"
+
+#~ msgid "Analysis"
+#~ msgstr "Analyses"
+
+#~ msgid "Enable or disable analyzes"
+#~ msgstr "Activer ou désactiver les analyses"
+
+#~ msgid "Feature"
+#~ msgstr "Fonctionnalités"
+
+#~ msgid "Feature Options"
+#~ msgstr "Options des fonctionnalités"
+
+#~ msgid "Permalinks"
+#~ msgstr "Permaliens"
+
+#~ msgid "Configuration of permalinks"
+#~ msgstr "Configuration des permaliens"
+
+#~ msgid "Webmaster Tools"
+#~ msgstr "Outils pour les webmasters"
+
+#~ msgid "Webmaster Tools Options"
+#~ msgstr "Options des outils pour les webmasters"
+
+#~ msgid ""
+#~ "You can enable / disable the analysis as well as the recommendation to a "
+#~ "type of writing"
+#~ msgstr ""
+#~ "Vous pouvez activer / désactiver les analyses, ainsi que les "
+#~ "recommandations pour vos rédactions"
+
+#~ msgid "You can enable / disable features"
+#~ msgstr "Vous pouvez activer / désactiver des fonctionnalités"
+
+#~ msgid "Internal link counter (outgoing / incoming)"
+#~ msgstr "Compteur de liens internes (sortants / entrants)"
+
+#~ msgid ""
+#~ "This option allows you to view the number of internal links (outbound and "
+#~ "inbound) links for your articles / pages"
+#~ msgstr ""
+#~ "Cette option vous permet d'afficher le nombre de liens internes (sortants "
+#~ "et entrants) pour vos articles / pages"
+
+#~ msgid "XML Sitemaps"
+#~ msgstr "Sitemaps XML"
+
+#~ msgid ""
+#~ "This option allows you to generate an xml file of the site map, you can "
+#~ "see the file by clicking on icon Eye"
+#~ msgstr ""
+#~ "Cette option permet de générer un fichier xml de la carte du site, vous "
+#~ "pourrez voir le fichier en cliquant sur icon Œil"
+
+#~ msgid ""
+#~ "The choice of the language and the country must correspond to your "
+#~ "essays, our analysis will be based on these two criteria to optimize the "
+#~ "results"
+#~ msgstr ""
+#~ "Le choix de la langue et du pays doivent correspondre à vos rédactions. "
+#~ "Nos analyses et recommandations d'optimisation seront basées sur ces deux "
+#~ "critères"
+
+#~ msgid "Choose language and country"
+#~ msgstr "Choisissez la langue et le pays"
+
+#~ msgid ""
+#~ "The structure of your permalinks plays an important role in the SEO of "
+#~ "your site. It allows the reader to know where this page is in your "
+#~ "website and its content"
+#~ msgstr ""
+#~ "La structure de vos permaliens joue un rôle important dans le "
+#~ "référencement de votre site"
+
+#~ msgid "Delete the homepage in the links"
+#~ msgstr "Supprimer la page d'accueil dans les liens"
+
+#~ msgid ""
+#~ "This option allows you to not display the name of the home page in the "
+#~ "child links"
+#~ msgstr ""
+#~ "Cette option vous permet de ne pas afficher le nom de la page d'accueil "
+#~ "dans les liens enfants"
+
+#~ msgid "Webmaster tools"
+#~ msgstr "Outils pour les webmasters"
+
+#~ msgid ""
+#~ "In order for your site to be properly verified by the different search "
+#~ "engines please indicate the verification codes they provide you"
+#~ msgstr ""
+#~ "Pour que votre site soit correctement vérifié par les différents moteurs "
+#~ "de recherche, veuillez indiquer les codes de vérification qu'ils vous "
+#~ "fournissent"
+
+#~ msgid "Google"
+#~ msgstr "Google"
+
+#~ msgid "Bing"
+#~ msgstr "Bing"
+
+#~ msgid "Baidu"
+#~ msgstr "Baidu"
+
+#~ msgid "Yandex"
+#~ msgstr "Yandex"
+
+#~ msgid "Basic configuration"
+#~ msgstr "Configuration de base"
+
+#~ msgid "Types of content"
+#~ msgstr "Types de contenu"
+
+#~ msgid "Settings"
+#~ msgstr "Paramètres"
+
+#~ msgid "Taxonomies"
+#~ msgstr "Taxonomies"
+
+#~ msgid "Archive"
+#~ msgstr "Archive"
+
+#~ msgid "Special page"
+#~ msgstr "Page spéciale"
+
+#~ msgid "RSS"
+#~ msgstr "RSS"
+
+#~ msgid "Opening time"
+#~ msgstr "Horaire d'ouverture"
+
+#~ msgid "Closing times"
+#~ msgstr "Horaire de fermeture"
+
+#~ msgid "Taxonomy"
+#~ msgstr "Taxonomie"
+
+#~ msgid "You can customize your meta-title and the default description"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta-titre et la méta-description par "
+#~ "défaut"
+
+#~ msgid ""
+#~ "This option allows you to manually edit the meta title and description "
+#~ "while writing"
+#~ msgstr ""
+#~ "Cette option vous permet d’éditer manuellement le titre et la description "
+#~ "de la méta lors de la rédaction"
+
+#~ msgid "You can customize your meta title and default description"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta-titre et Méta-description par défaut"
+
+#~ msgid ""
+#~ "This option allows you to manually edit the meta title and description in "
+#~ "the edition of the page"
+#~ msgstr ""
+#~ "Cette option vous permet d’éditer manuellement le méta-titre et la méta-"
+#~ "description dans l’édition de la page"
+
+#~ msgid "Author archives"
+#~ msgstr "Archives de l'auteur"
+
+#~ msgid "Date archives"
+#~ msgstr "Date archives"
+
+#~ msgid ""
+#~ "If a single author administers the site, we recommend that you do not "
+#~ "display the archive, its archive page will be exactly the same as your "
+#~ "home page"
+#~ msgstr ""
+#~ "Si un seul auteur administre le site, nous vous recommandons de ne pas "
+#~ "afficher l'archive, pour éviter le contenu dupliqué"
+
+#~ msgid "View authors archives"
+#~ msgstr "Voir les archives des auteurs"
+
+#~ msgid "This option allows you to view the authors archives"
+#~ msgstr "Cette option vous permet de voir les archives des auteurs"
+
+#~ msgid "Allow search engines to index the archives with publications"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à indexer les archives avec des "
+#~ "publications"
+
+#~ msgid ""
+#~ "This option allows you to ask search engines to index the archives who "
+#~ "have posts"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d’indexer "
+#~ "les archives qui ont des publications"
+
+#~ msgid ""
+#~ "Allow search engines to follow the links in the archives who have posts"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à suivre les liens dans les archives "
+#~ "qui ont des publications"
+
+#~ msgid ""
+#~ "This option allows search engine robots to follow links from the archives "
+#~ "who have posts"
+#~ msgstr ""
+#~ "Cette option permet aux robots des moteurs de recherche de suivre les "
+#~ "liens des archives qui ont des publications"
+
+#~ msgid "Allow search engines to index the archives without publications"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à indexer les archives sans "
+#~ "publications"
+
+#~ msgid ""
+#~ "This option allows you to ask the search engines to index the archives "
+#~ "who have no posts"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d'indexer "
+#~ "les archives qui n'ont pas de publications"
+
+#~ msgid ""
+#~ "Allow search engines to follow the links in the archives who have no posts"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à suivre les liens dans les archives "
+#~ "qui n'ont pas de publications"
+
+#~ msgid ""
+#~ "This option allows search engine robots to follow links from the archives "
+#~ "who have no posts"
+#~ msgstr ""
+#~ "Cette option permet aux robots des moteurs de recherche de suivre les "
+#~ "liens des archives qui n'ont pas de publications"
+
+#~ msgid "View archives by dates"
+#~ msgstr "Voir les archives par dates"
+
+#~ msgid ""
+#~ "Date-based archives could, in some cases, also be considered duplicate "
+#~ "content"
+#~ msgstr ""
+#~ "Dans certains cas, les archives datées peuvent également être considérées "
+#~ "comme un contenu en double"
+
+#~ msgid "This option allows you to view the archive by date"
+#~ msgstr "Cette option vous permet de visualiser les archives par date"
+
+#~ msgid "Allow search engines to index archive by dates"
+#~ msgstr "Autoriser les moteurs de recherche à indexer les archives par dates"
+
+#~ msgid ""
+#~ "This option allows you to ask search engines to index archives by dates"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d'indexer "
+#~ "les archives par dates"
+
+#~ msgid "Allow search engines to follow the links in archive by dates"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à suivre les liens dans les archives "
+#~ "par dates"
+
+#~ msgid ""
+#~ "This option allows search engine robots to follow links archive by dates"
+#~ msgstr ""
+#~ "Cette option permet aux robots des moteurs de recherche de suivre les "
+#~ "archives de liens par dates"
+
+#~ msgid "Setting"
+#~ msgstr "Réglage"
+
+#~ msgid "Title separator"
+#~ msgstr "Titre séparateur"
+
+#~ msgid "Home page"
+#~ msgstr "Page d'accueil"
+
+#~ msgid "Knowledge Graph / Schema.org"
+#~ msgstr "Knowledge Graph / Schema.org"
+
+#~ msgid ""
+#~ "Be careful, it is possible that some search engines decide to index your "
+#~ "wordpress even if you block indexing"
+#~ msgstr ""
+#~ "Attention, il est possible que certains moteurs de recherche décident "
+#~ "d’indexer votre WordPress, même si vous bloquez l’indexation"
+
+#~ msgid "Wordpress indexing"
+#~ msgstr "Indexation du wordpress"
+
+#~ msgid ""
+#~ "This option allows you to ask the search engines to index your entire "
+#~ "wordpress"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d’indexer "
+#~ "l’ensemble de votre wordpress"
+
+#~ msgid ""
+#~ "You can use a separator between the title of your publication and the "
+#~ "name of your site"
+#~ msgstr ""
+#~ "Vous pouvez utiliser un séparateur entre le titre de votre publication et "
+#~ "le nom de votre site"
+
+#~ msgid "You can customize your meta title and description for the home page"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta-titre et méta-description pour la "
+#~ "page d'accueil"
+
+#~ msgid "Allow editing the meta tag in homepage"
+#~ msgstr "Autoriser la modification de la balise META dans la page d'accueil"
+
+#~ msgid "Allow search engines to index this home page"
+#~ msgstr "Autoriser les moteurs de recherche à indexer la page d'accueil"
+
+#~ msgid ""
+#~ "This option allows you to ask the search engines to index the home page"
+#~ msgstr ""
+#~ "Cette option vous permet de donner la permission aux moteurs de recherche "
+#~ "d’indexer la page d’accueil"
+
+#~ msgid "Allow search engines to follow the links in the home page"
+#~ msgstr ""
+#~ "Autoriser les moteurs de recherche à suivre les liens de la page d'accueil"
+
+#~ msgid ""
+#~ "This option allows search engine robots to follow links from the home page"
+#~ msgstr ""
+#~ "Cette option permet aux robots des moteurs de recherche de suivre les "
+#~ "liens de la page d'accueil"
+
+#~ msgid ""
+#~ "This feature provides users with easier access to information in search "
+#~ "engines. This data will be displayed as metadata on your site"
+#~ msgstr ""
+#~ "Le Knowledge Graph est une base de connaissances utilisée par Google pour "
+#~ "compiler les résultats de son moteur de recherche avec des informations "
+#~ "sémantiques issues de sources diverses\n"
+#~ "<br>\n"
+#~ "Schema.org est un schéma de micro-données utilisé sur le Web. Les micro-"
+#~ "données permettent aux robots d'indexation de saisir plus précisément le "
+#~ "sens des pages indexées"
+
+#~ msgid "Choose a type"
+#~ msgstr "Choisissez un type"
+
+#~ msgid "This option allows you to specify the type of your site"
+#~ msgstr "Cette option vous permet de spécifier le type de votre site"
+
+#~ msgid "Person"
+#~ msgstr "Personne"
+
+#~ msgid "Name"
+#~ msgstr "Nom"
+
+#~ msgid "Job title"
+#~ msgstr "Profession"
+
+#~ msgid "Image"
+#~ msgstr "Image"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Zip/Postal Code"
+#~ msgstr "Zip/Code postal"
+
+#~ msgid "City"
+#~ msgstr "Ville"
+
+#~ msgid "Country"
+#~ msgstr "Pays"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Birth Date"
+#~ msgstr "Date de naissance"
+
+#~ msgid "Organization"
+#~ msgstr "Organisation"
+
+#~ msgid "Choose a organization"
+#~ msgstr "Choisissez une organisation"
+
+#~ msgid "This option allows you to specify the type of organization"
+#~ msgstr "Cette option vous permet de spécifier le type d'organisation"
+
+#~ msgid "Logo"
+#~ msgstr "Logo"
+
+#~ msgid "Description"
+#~ msgstr "Description"
+
+#~ msgid "Choose a contact type"
+#~ msgstr "Choisissez un type de contact"
+
+#~ msgid "This option allows you to specify the contact type"
+#~ msgstr "Cette option vous permet de spécifier le type de contact"
+
+#~ msgid "Product"
+#~ msgstr "Product"
+
+#~ msgid "Brand"
+#~ msgstr "Marque"
+
+#~ msgid "Rating"
+#~ msgstr "Évaluation"
+
+#~ msgid "Based on how many reviews"
+#~ msgstr "Basé sur combien de critiques"
+
+#~ msgid "Event"
+#~ msgstr "Événement"
+
+#~ msgid "Choose a event"
+#~ msgstr "Choisissez un événement"
+
+#~ msgid "This option allows you to specify the type of event"
+#~ msgstr "Cette option vous permet de spécifier le type d'événement"
+
+#~ msgid "Venue Name"
+#~ msgstr "Nom de la place"
+
+#~ msgid "Venue URL"
+#~ msgstr "URL du lieu"
+
+#~ msgid "Offer Description"
+#~ msgstr "Description de l'offre"
+
+#~ msgid "Offer URL"
+#~ msgstr "URL de l'offre"
+
+#~ msgid "Offer Price"
+#~ msgstr "Prix de l'offre"
+
+#~ msgid "Website"
+#~ msgstr "Site Internet"
+
+#~ msgid "Alternate Name"
+#~ msgstr "Nom alternatif"
+
+#~ msgid "RSS feed settings"
+#~ msgstr "Paramètres de flux RSS"
+
+#~ msgid ""
+#~ "This feature is used to automatically add content to your RSS feeds, "
+#~ "helping search engines identify your site as the origin of the content"
+#~ msgstr ""
+#~ "Cette fonctionnalité est utilisée pour ajouter automatiquement du contenu "
+#~ "à vos flux RSS, aidant ainsi les moteurs de recherche à identifier votre "
+#~ "site comme étant l'origine du contenu"
+
+#~ msgid "Content to add before the article"
+#~ msgstr "Contenu à ajouter avant l'article"
+
+#~ msgid "Content to add after the article"
+#~ msgstr "Contenu à ajouter après l'article"
+
+#~ msgid "Search"
+#~ msgstr "Recherche"
+
+#~ msgid "Error 404"
+#~ msgstr "Erreur 404"
+
+#~ msgid "Page : Search"
+#~ msgstr "Page: Recherche"
+
+#~ msgid ""
+#~ "You can customize your meta title and default description for the search"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta-titre et la méta-description par "
+#~ "défaut pour la recherche"
+
+#~ msgid "Page : Error 404"
+#~ msgstr "Page : Erreur 404"
+
+#~ msgid ""
+#~ "You can customize your meta title and default description for the error "
+#~ "404"
+#~ msgstr ""
+#~ "Vous pouvez personnaliser votre méta-titre et la méta-description par "
+#~ "défaut de l'erreur 404"
+
+#~ msgid "Allow editing the meta tag in Article / Page"
+#~ msgstr "Autoriser la modification de la balise meta dans Article / Page"
+
+#~ msgid ""
+#~ "This option allows you to manually edit the meta title and description "
+#~ "for facebook when writing"
+#~ msgstr ""
+#~ "Cette option vous permet d’éditer manuellement le titre et la description "
+#~ "de la méta pour Facebook lors de la rédaction"
+
+#~ msgid "URL of the Facebook page"
+#~ msgstr "URL de la page Facebook"
+
+#~ msgid "Facebook App ID"
+#~ msgstr "Identifiant de l'application Facebook"
+
+#~ msgid "Pinterest Page url"
+#~ msgstr "URL Pinterest"
+
+#~ msgid "Pinterest verification code"
+#~ msgstr "Code de vérification Pinterest"
+
+#~ msgid ""
+#~ "This option allows you to manually edit the meta title and description "
+#~ "for twitter when writing"
+#~ msgstr ""
+#~ "Cette option vous permet d’éditer manuellement le titre et la description "
+#~ "de la méta pour twitter lors de la rédaction"
+
+#~ msgid "Choose a card type"
+#~ msgstr "Choisissez un type de carte"
+
+#~ msgid "This option allows you to choose how to display in social feeds"
+#~ msgstr ""
+#~ "Cette option vous permet de choisir le mode d'affichage dans les flux "
+#~ "sociaux"
+
+#~ msgid "Your username"
+#~ msgstr "Nom d'utilisateur"
+
+#~ msgid "Export / Import"
+#~ msgstr "Export / Import"
+
+#~ msgid "Export and import settings"
+#~ msgstr "Paramètres d'exportation et d'importation"
+
+#~ msgid "File Editor"
+#~ msgstr "Éditeur de fichier"
+
+#~ msgid "Tool for editing files"
+#~ msgstr "Outil pour éditer des fichiers"
+
+#~ msgid "Reset"
+#~ msgstr "Réinitialiser"
+
+#~ msgid "Reset settings"
+#~ msgstr "Réinitialiser les options"
+
+#~ msgid "Export"
+#~ msgstr "Exportation"
+
+#~ msgid "Import"
+#~ msgstr "Importation"
+
+#~ msgid "Export parameter configuration"
+#~ msgstr "Configuration du paramètre d'exportation"
+
+#~ msgid ""
+#~ "This option allows you to export the ran4win plugin settings, for a "
+#~ "backup or to be imported on another wordpress"
+#~ msgstr ""
+#~ "Cette option vous permet d’exporter les paramètres du plugin Rank4Win, "
+#~ "pour une sauvegarde ou pour être importé sur un autre WordPress"
+
+#~ msgid "Import parameter configuration"
+#~ msgstr "Importer la configuration des paramètres"
+
+#~ msgid ""
+#~ "This option allows you to import your settings that were exported by "
+#~ "Rank4Win. Always try to have the same version between the export and "
+#~ "import of the setting file"
+#~ msgstr ""
+#~ "Cette option vous permet d'importer vos paramètres exportés par Rank4Win. "
+#~ "Essayez toujours d'avoir la même version entre l'exportation et "
+#~ "l'importation du fichier des paramètres"
+
+#~ msgid "File"
+#~ msgstr "Fichier"
+
+#~ msgid ""
+#~ "The \".htaccess\" file is a configuration file, which allows you to "
+#~ "define rules on your wordpress such as the possibility to create an "
+#~ "address structure for your permalinks and archives"
+#~ msgstr ""
+#~ "Le fichier \".htaccess\" est un fichier de configuration qui vous permet "
+#~ "de définir des règles pour votre wordpress, telles que la possibilité de "
+#~ "créer une structure d’adresses pour vos permaliens et vos archives"
+
+#~ msgid ""
+#~ "The \"robots.txt\" file tells search engine crawlers the pages or files "
+#~ "they can or can not browse from the wordpress"
+#~ msgstr ""
+#~ "Le fichier “robots.txt” indique aux robots d'exploration des moteurs de "
+#~ "recherche les pages ou les fichiers qu'ils peuvent ou ne peuvent pas "
+#~ "explorer du wordpress"
+
+#~ msgid "Reset application options"
+#~ msgstr "Réinitialiser les options de l'application"
+
+#~ msgid ""
+#~ "Start from scratch and rediscover rank4win as in the early days, reset "
+#~ "clears all app settings"
+#~ msgstr ""
+#~ "Recommencez à partir de zéro et redécouvrez Rank4Win avec ses réglages "
+#~ "par défaut. La réinitialisation efface toutes les options du plugin"
+
+#~ msgid ""
+#~ "This action is irreversible, do not forget to bring your configuration "
+#~ "before you start in this procedure"
+#~ msgstr ""
+#~ "Cette action étant irréversible, n'oubliez pas d'importer votre "
+#~ "configuration avant de vous lancer dans cette procédure"
+
+#~ msgid "Reset content types options"
+#~ msgstr "Réinitialiser les options des types de contenus"
+
+#~ msgid "You can clear the options you have customize in content types"
+#~ msgstr ""
+#~ "Vous pouvez effacer les options que vous avez personnalisé dans les types "
+#~ "de contenus"
+
+#~ msgid ""
+#~ "Since this action is irreversible, do not forget to export your important "
+#~ "data before you start this procedure"
+#~ msgstr ""
+#~ "Cette action étant irréversible, n'oubliez pas d'exporter vos données "
+#~ "importantes avant de vous lancer dans cette procédure"
+
+#~ msgid "Reset taxonomy options"
+#~ msgstr "Réinitialiser les options de taxonomie"
+
+#~ msgid "You can clear the options you have customize in the taxonomy"
+#~ msgstr ""
+#~ "Vous pouvez effacer les options que vous avez personnalisé dans les "
+#~ "taxonomies"
+
+#~ msgid "Surprise"
+#~ msgstr "Surprise"
+
+#~ msgid "Switch User"
+#~ msgstr "Changer d'utilisateur"
+
+#~ msgid "Change plan"
+#~ msgstr "Changer d'abonnement"
+
+#~ msgid "Subscribe"
+#~ msgstr "Souscrire"
+
+#~ msgid "Free offer"
+#~ msgstr "Offre gratuite"
+
+#~ msgid "Number of wordpress"
+#~ msgstr "Nombre de wordpress"
+
+#~ msgid "Unlimited"
+#~ msgstr "Illimité"
+
+#~ msgid "From 1 to 300"
+#~ msgstr "De 1 à 300"
+
+#~ msgid "Analysis of the writings"
+#~ msgstr "Analyse des rédactions"
+
+#~ msgid "SEO Parameters Configuration"
+#~ msgstr "Paramètres de référencement Configuration"
+
+#~ msgid "Setting (block indexing)"
+#~ msgstr "Réglage (bloquer l’indexation)"
+
+#~ msgid "Separator title"
+#~ msgstr "Titre séparateur"
+
+#~ msgid "Homepage"
+#~ msgstr "Page d’accueil"
+
+#~ msgid "Knowledge Graph"
+#~ msgstr "Knowledge Graph"
+
+#~ msgid "Suggested keyword"
+#~ msgstr "Suggestion de mot-clé"
+
+#~ msgid "Automatic suggestion"
+#~ msgstr "Suggestion automatique"
+
+#~ msgid "Adding main keyword manually"
+#~ msgstr "Ajout du mot clé principal manuellement"
+
+#~ msgid "Adding secondary keyword manually"
+#~ msgstr "Ajout du mot clé secondaire manuellement"
+
+#~ msgid "Add lexical keyword manually"
+#~ msgstr "Ajout du mot clé lexical manuellement"
+
+#~ msgid "Features"
+#~ msgstr "Fonctionnalités"
+
+#~ msgid "Internal Link Counter"
+#~ msgstr "Compteur de liens internes"
+
+#~ msgid "Sitemap"
+#~ msgstr "Sitemap"
+
+#~ msgid "Primary keyword in the title"
+#~ msgstr "Mot clé principal dans le titre"
+
+#~ msgid "Title length"
+#~ msgstr "Longueur du titre"
+
+#~ msgid "Number of words"
+#~ msgstr "Nombre de mots"
+
+#~ msgid "Reading time"
+#~ msgstr "Temps de lecture"
+
+#~ msgid "Difficulty reading"
+#~ msgstr "Difficulté de lecture"
+
+#~ msgid "Synonym search engine"
+#~ msgstr "Moteur de recherche de synonymes"
+
+#~ msgid "Semantic Analysis"
+#~ msgstr "Analyse Sémantique"
+
+#~ msgid "Target keywords"
+#~ msgstr "Mots-clés cibles"
+
+#~ msgid "Title Structure"
+#~ msgstr "Structure de titre"
+
+#~ msgid "Text structure"
+#~ msgstr "Structure de texte"
+
+#~ msgid "Type of content"
+#~ msgstr "Type de contenu"
+
+#~ msgid "Page"
+#~ msgstr "Pages"
+
+#~ msgid "Article"
+#~ msgstr "Articles"
+
+#~ msgid "Portfolio"
+#~ msgstr "Portfolios"
+
+#~ msgid "Other"
+#~ msgstr "Autre"
+
+#~ msgid "Categories"
+#~ msgstr "Catégories"
+
+#~ msgid "Tags"
+#~ msgstr "Mots clés"
+
+#~ msgid "Formats"
+#~ msgstr "Les formats"
+
+#~ msgid "Projects categories"
+#~ msgstr "Projects catégories"
+
+#~ msgid "Projects Attributes"
+#~ msgstr "Projects Attributes"
+
+#~ msgid "Keyword Strategy Creation"
+#~ msgstr "Création de stratégie de mots clés"
+
+#~ msgid "Number of strategies"
+#~ msgstr "Nombre de stratégies"
+
+#~ msgid "Number of searches"
+#~ msgstr "Nombre de recherche"
+
+#~ msgid "day"
+#~ msgstr "jour"
+
+#~ msgid "Number of results"
+#~ msgstr "Nombre de résultats"
+
+#~ msgid "search"
+#~ msgstr "recherche"
+
+#~ msgid "Archives"
+#~ msgstr "Archives"
+
+#~ msgid "Author Archives"
+#~ msgstr "Archives de l’auteur"
+
+#~ msgid "Dates Archives"
+#~ msgstr "Dates Archives"
+
+#~ msgid "Creation of semantic structure"
+#~ msgstr "Création de structure sémantique"
+
+#~ msgid "Creating a new structure"
+#~ msgstr "Création d’une nouvelle structure"
+
+#~ msgid "month"
+#~ msgstr "mois"
+
+#~ msgid "Reorganization of your site"
+#~ msgstr "Réorganisation de votre site"
+
+#~ msgid "Deployment of the structure"
+#~ msgstr "Déploiement de la structure"
+
+#~ msgid "Export / Import Tools"
+#~ msgstr "Outils Export / Import"
+
+#~ msgid "Special pages"
+#~ msgstr "Pages spéciales"
+
+#~ msgid "Search page"
+#~ msgstr "Page recherche"
+
+#~ msgid "Page Error 404"
+#~ msgstr "Page Erreur 404"
+
+#~ msgid "Tracking the positioning of the site"
+#~ msgstr "Suivi du positionnement du site"
+
+#~ msgid "Site Analysis"
+#~ msgstr "Analyse du site"
+
+#~ msgid "Analysis of organic research"
+#~ msgstr "Analyse de la recherche organique"
+
+#~ msgid "Competition Analysis"
+#~ msgstr "Analyse de la concurrence"
+
+#~ msgid "Htaccess"
+#~ msgstr "Htaccess"
+
+#~ msgid "Robots.txt"
+#~ msgstr "Robots.txt"
+
+#~ msgid "Add content before and after"
+#~ msgstr "Ajout de contenu avant et après"
+
+#~ msgid "Content type"
+#~ msgstr "Type de contenu"
+
+#~ msgid "Credit or debit card"
+#~ msgstr "Carte de crédit ou de débit"
+
+#~ msgid "Submit Payment"
+#~ msgstr "Soumettre le paiement"
+
+#~ msgid ""
+#~ "Please contact your bank or credit card issuer to find out why payment "
+#~ "has not been made"
+#~ msgstr ""
+#~ "Veuillez contacter votre banque ou votre émetteur de carte de crédit pour "
+#~ "savoir pourquoi le paiement n'a pas été effectué"
+
+#~ msgid "Authorization in progress"
+#~ msgstr "Autorisation en cours"
+
+#~ msgid "Please wait a moment"
+#~ msgstr "Patientez s'il-vous-plait"
+
+#~ msgid ""
+#~ "In making the payment, you confirm that you have read and accept the "
+#~ "terms and conditions of sale"
+#~ msgstr ""
+#~ "En effectuant le paiement, vous confirmez que vous avez lu et accepté les "
+#~ "conditions générales de vente (CGV)"
+
+#~ msgid "ttc"
+#~ msgstr "ttc"
+
+#~ msgid "Seo tools"
+#~ msgstr "Outil SEO"
+
+#~ msgid "Tools for your webmarketing strategy"
+#~ msgstr "Des outils pour votre stratégie webmarketing"
+
+#~ msgid "Semantic structure"
+#~ msgstr "Structure sémantique"
+
+#~ msgid "Create a new semantic structure"
+#~ msgstr "Créer une nouvelle structure sémantique"
+
+#~ msgid "Cancel"
+#~ msgstr "Annuler"
+
+#~ msgid "Name of the stucture"
+#~ msgstr "Nom de la structure"
+
+#~ msgid "Rename"
+#~ msgstr "Renommer"
+
+#~ msgid "Duplication of the semantic structure"
+#~ msgstr "Duplication de la structure sémantique"
+
+#~ msgid "Please wait while duplicating your semantic structure"
+#~ msgstr ""
+#~ "Veuillez patienter pendant la duplication de votre structure sémantique"
+
+#~ msgid ""
+#~ "Building a tree of pages with optimized contents answering a theme with "
+#~ "keywords on the same subject, is the basis of the seo semantic cocoon"
+#~ msgstr ""
+#~ "Construisez une arborescence sémantique avec un bon maillage interne. "
+#~ "Réalisez une optimisation des contenus sur la base d'une analyse "
+#~ "sémantique des besoins de vos visiteurs. Ainsi, vous obtiendrez une "
+#~ "structure sémantique parfaite"
+
+#~ msgid "Content of the structure"
+#~ msgstr "Contenu de la structure"
+
+#~ msgid "Empty structure"
+#~ msgstr "Structure vide"
+
+#~ msgid "Wordpress-based structure"
+#~ msgstr "Structure basée sur ce WordPress"
+
+#~ msgid "Keyword Strategy"
+#~ msgstr "Stratégie de mots clés"
+
+#~ msgid "Create"
+#~ msgstr "Créer"
+
+#~ msgid "Options"
+#~ msgstr "Options"
+
+#~ msgid "Additional deployment"
+#~ msgstr "Déploiement supplémentaire"
+
+#~ msgid ""
+#~ "Each additional deployment is valid only once for a single semantic "
+#~ "structure"
+#~ msgstr ""
+#~ "Chaque déploiement supplémentaire est valide une seule fois pour une "
+#~ "seule structure sémantique"
+
+#~ msgid "Create a new strategy"
+#~ msgstr "Créer une nouvelle stratégie"
+
+#~ msgid "Creation of the semantic structure"
+#~ msgstr "Création de la structure sémantique"
+
+#~ msgid "Please wait while creating your semantic structure"
+#~ msgstr ""
+#~ "Veuillez patienter pendant la création de votre structure sémantique"
+
+#~ msgid "Open"
+#~ msgstr "Ouvrir"
+
+#~ msgid "Edit"
+#~ msgstr "Modifier"
+
+#~ msgid "Deleted"
+#~ msgstr "Supprimer"
+
+#~ msgid "Volume"
+#~ msgstr "Volume"
+
+#~ msgid "Feasibility"
+#~ msgstr "Faisabilité"
+
+#~ msgid "Cpc"
+#~ msgstr "Cpc"
+
+#~ msgid "This service is not available at the moment"
+#~ msgstr "Ce service n'est pas disponible pour le moment"
+
+#~ msgid "Please come back later"
+#~ msgstr "Merci de revenir plus tard"
+
+#~ msgid "Update available"
+#~ msgstr "Mise à jour disponible"
+
+#~ msgid "This release includes new features and improvements"
+#~ msgstr "Cette version inclut de nouvelles fonctionnalités et améliorations"
+
+#~ msgid "Update now"
+#~ msgstr "Mettre à jour maintenant"
+
+#~ msgid "Internal links"
+#~ msgstr "Liens internes"
+
+#~ msgid "Editor"
+#~ msgstr "Éditeur"
+
+#~ msgid "Login"
+#~ msgstr "Se connecter"
+
+#~ msgid "Register"
+#~ msgstr "S'inscrire"
+
+#~ msgid "One-time password authentication"
+#~ msgstr "Authentification par mot de passe à usage unique"
+
+#~ msgid "Associate Wordpress"
+#~ msgstr "Associer Wordpress"
+
+#~ msgid "Export Configuration"
+#~ msgstr "Configuration d'exportation"
+
+#~ msgid "Retrieve the image of the structure"
+#~ msgstr "Récupérer l'image de la structure"
+
+#~ msgid "Your invoice in pdf format"
+#~ msgstr "Votre facture au format pdf"
+
+#~ msgid "All"
+#~ msgstr "Tout"
+
+#~ msgid "Any"
+#~ msgstr "Aucun"
+
+#~ msgid "Poor"
+#~ msgstr "Mauvais"
+
+#~ msgid "Good"
+#~ msgstr "Bon"
+
+#~ msgid "Perfect"
+#~ msgstr "Parfait"
+
+#~ msgid "Rank4Win is not functional, you must first make some settings"
+#~ msgstr ""
+#~ "Rank4Win n'est pas fonctionnel, vous devez d'abord effectuer certains "
+#~ "réglages"
+
+#~ msgid "Now configure rank4win"
+#~ msgstr "Configurez rank4win maintenant"
+
+#~ msgid ""
+#~ "Rank4Win : You must choose the language and country of your essays in the "
+#~ "settings"
+#~ msgstr ""
+#~ "Rank4Win: Vous devez choisir la langue et le pays de vos rédactions dans "
+#~ "les paramètres"
+
+#~ msgid "Update is required to access the features"
+#~ msgstr "Une mise à jour est nécessaire pour accéder aux fonctionnalités"
+
+#~ msgid "To read also"
+#~ msgstr "A lire également"
+
+#~ msgid "Wrong email or password"
+#~ msgstr "Mauvais email ou mot de passe"
+
+#~ msgid "Email must be a valid email"
+#~ msgstr "L'email doit être une adresse de courriel valide"
+
+#~ msgid "Password is a required field"
+#~ msgstr "Mot de passe est un champ obligatoire"
+
+#~ msgid "Password and confirmation must match"
+#~ msgstr ""
+#~ "Mot de passe et la confirmation du mot de passe doivent correspondre"
+
+#~ msgid "An account already exists with this email address"
+#~ msgstr "Un compte existe déjà avec cette adresse email"
+
+#~ msgid "Wrong verification code"
+#~ msgstr "Mauvais code de vérification"
+
+#~ msgid "No keyword strategy available"
+#~ msgstr "Aucune stratégie de mot clé disponible"
+
+#~ msgid "%s page"
+#~ msgid_plural "%s pages"
+#~ msgstr[0] "%s page"
+#~ msgstr[1] "%s pages"
+
+#~ msgid "Delete structure"
+#~ msgstr "Supprimer la structure"
+
+#~ msgid "Remove sync"
+#~ msgstr "Retirer la synchronisation"
+
+#~ msgid "Duplicate"
+#~ msgstr "Dupliquer"
+
+#~ msgid "Deploy the structure"
+#~ msgstr "Déployer la structure"
+
+#~ msgid ""
+#~ "A semantic structure is synchronized with your WordPress. When you edit "
+#~ "your pages, your semantic structure automatically updates. If you enter "
+#~ "your semantic structure, you will have to deploy your structure again to "
+#~ "synchronize it with your wordpress"
+#~ msgstr ""
+#~ "Une structure sémantique est synchronisée avec votre WordPress. Lorsque "
+#~ "vous modifiez vos pages, votre structure sémantique est automatiquement "
+#~ "mise à jour. Si vous entrez dans votre structure sémantique, vous devrez "
+#~ "à nouveau déployer votre structure pour la synchroniser avec votre "
+#~ "wordpress"
+
+#~ msgid "Enter a word"
+#~ msgstr "Entrez un mot"
+
+#~ msgid ""
+#~ "This semantic structure is synchronized with %s. The backup of the "
+#~ "changes is possible from this wordpress. You can duplicate this semantic "
+#~ "structure if you want to save your changes"
+#~ msgstr ""
+#~ "Cette structure sémantique est synchronisée avec %s. La sauvegarde des "
+#~ "modifications est possible à partir de ce WordPress. Vous pouvez "
+#~ "dupliquer cette structure sémantique si vous souhaitez enregistrer vos "
+#~ "modifications"
+
+#~ msgid ""
+#~ "We love you too much for taking your hard earned money twice. The user %s "
+#~ "already has a rank4win subscription"
+#~ msgstr ""
+#~ "Nous vous aimons trop pour prendre votre argent durement gagné deux fois. "
+#~ "L'utilisateur %s dispose déjà d'un abonnement rank4win"
+
+#~ msgid "Number of WordPress"
+#~ msgstr "Nombre de WordPress"
+
+#~ msgid "year"
+#~ msgstr "ans"
+
+#~ msgid "Keywords"
+#~ msgstr "Mots clés"
+
+#~ msgid "The number of keywords that bring you organic traffic"
+#~ msgstr "Le nombre des mots clés qui vous rapportent du trafic organique"
+
+#~ msgid "Traffic"
+#~ msgstr "Trafic"
+
+#~ msgid "Organic traffic planned for next month"
+#~ msgstr "Trafic organique prévu pour le mois prochain"
+
+#~ msgid "Cost of the traffic"
+#~ msgstr "Coût du trafic"
+
+#~ msgid ""
+#~ "Savings, normally that what you should pay in Google AdWords for your "
+#~ "traffic"
+#~ msgstr ""
+#~ "Les économies réalisées : Normalement c'est ce que vous devriez payer en "
+#~ "Google AdWords pour votre trafic"
+
+#~ msgid "Last update"
+#~ msgstr "Dernière mise à jour"
+
+#~ msgid "Sorry, no data related to your query"
+#~ msgstr "Désolé, aucune donnée liée à votre requête"
+
+#~ msgid "We did not find your site in the first 100 search results"
+#~ msgstr ""
+#~ "Nous n'avons pas trouvé votre site dans les 100 premiers résultats de "
+#~ "recherche"
+
+#~ msgid "We found no competitors linking to your site"
+#~ msgstr "Nous n'avons trouvé aucun concurrent se connectant à votre site"
+
+#~ msgid ""
+#~ "The connection to the rank4win server has been interrupted unexpectedly, "
+#~ "some features may not work properly. Wait and try to refresh the page to "
+#~ "fix the problem"
+#~ msgstr ""
+#~ "La connexion au serveur rank4win a été interrompue de manière inattendue, "
+#~ "certaines fonctionnalités risquent de ne pas fonctionner correctement. "
+#~ "Attendez et essayez d'actualiser la page pour résoudre le problème"
+
+#~ msgid ""
+#~ "We make improvements on this service, do not be surprised if some "
+#~ "features do not work properly during our intervention"
+#~ msgstr ""
+#~ "Nous apportons des améliorations à ce service, ne soyez pas surpris si "
+#~ "certaines fonctionnalités ne fonctionnent pas correctement lors de notre "
+#~ "intervention"
+
+#~ msgid ""
+#~ "Your subscription will be canceled on %s, after this date you will no "
+#~ "longer have access to the benefit of your subscription"
+#~ msgstr ""
+#~ "Votre abonnement sera annulé le %s, après cette date vous ne pourrez plus "
+#~ "accéder au avantage de votre abonnement"
+
+#~ msgid "Your %s discount will be used to pay your next bill"
+#~ msgstr "Votre remise %s sera utilisée pour payer votre prochaine facture"
+
+#~ msgid "Your %s discount will be applied to your next bill"
+#~ msgstr "Votre remise %s sera appliquée sur votre prochaine facture"
+
+#~ msgid "Your next bill will be %s. It will be taken on %s"
+#~ msgstr "Votre prochaine facture sera de %s. Elle sera prélevée le %s"
+
+#~ msgid "No subscription"
+#~ msgstr "Pas d'abonnement"
+
+#~ msgid "Unlimited Wordpress"
+#~ msgstr "Wordpress illimité"
+
+#~ msgid "Subscription available"
+#~ msgstr "Abonnement disponible"
+
+#~ msgid "Remove the association from the account"
+#~ msgstr "Supprimer l'association du compte"
+
+#~ msgid "Delete from account"
+#~ msgstr "Supprimer du compte"
+
+#~ msgid "Remove from your subscription"
+#~ msgstr "Supprimer de votre abonnement"
+
+#~ msgid ""
+#~ "This wordpress must be associated with your account to benefit from your "
+#~ "subscription"
+#~ msgstr ""
+#~ "Ce wordpress doit être associé à votre compte pour bénéficier de votre "
+#~ "abonnement"
+
+#~ msgid "Re-add to your subscription"
+#~ msgstr "Réassocier à votre abonnement"
+
+#~ msgid ""
+#~ "On your next bill, this wordpress will no longer be associated with your "
+#~ "subscription"
+#~ msgstr ""
+#~ "Lors de votre prochaine facture, ce wordpress ne sera plus associé à "
+#~ "votre abonnement"
+
+#~ msgid "You are on this wordpress"
+#~ msgstr "Vous êtes sur ce wordpress"
+
+#~ msgid "Sorry, no wordpress available"
+#~ msgstr "Désolé, pas de wordpress disponible"
+
+#~ msgid "when you connect to a wordpress it will appear in this list"
+#~ msgstr ""
+#~ "lorsque vous vous connectez à un wordpress, il apparaîtra dans cette liste"
+
+#~ msgid "First name"
+#~ msgstr "Prénom"
+
+#~ msgid "Last name"
+#~ msgstr "Nom"
+
+#~ msgid "E-mail"
+#~ msgstr "Email"
+
+#~ msgid "Every %d Minutes"
+#~ msgstr "Toutes les %d minutes"
+
+#~ msgid "Monday"
+#~ msgstr "Lundi"
+
+#~ msgid "Tuesday"
+#~ msgstr "Mardi"
+
+#~ msgid "Wednesday"
+#~ msgstr "Mercredi"
+
+#~ msgid "Thursday"
+#~ msgstr "Jeudi"
+
+#~ msgid "Friday"
+#~ msgstr "Vendredi"
+
+#~ msgid "Saturday"
+#~ msgstr "Samedi"
+
+#~ msgid "Sunday"
+#~ msgstr "Dimanche"
+
+#~ msgid "January"
+#~ msgstr "Janvier"
+
+#~ msgid "February"
+#~ msgstr "Février"
+
+#~ msgid "March"
+#~ msgstr "Mars"
+
+#~ msgid "April"
+#~ msgstr "Avril"
+
+#~ msgid "May"
+#~ msgstr "Mai"
+
+#~ msgid "June"
+#~ msgstr "Juin"
+
+#~ msgid "July"
+#~ msgstr "Juillet"
+
+#~ msgid "August"
+#~ msgstr "Août"
+
+#~ msgid "September"
+#~ msgstr "Septembre"
+
+#~ msgid "October"
+#~ msgstr "Octobre"
+
+#~ msgid "November"
+#~ msgstr "Novembre"
+
+#~ msgid "December"
+#~ msgstr "Décembre"
+
+#~ msgid "Summarize with an image"
+#~ msgstr "Résumer avec une image"
+
+#~ msgid "Summarize without image"
+#~ msgstr "Résumer sans image"
+
+#~ msgid "Book"
+#~ msgstr "Livre"
+
+#~ msgid "Profile"
+#~ msgstr "Profil"
+
+#~ msgid "Customer support"
+#~ msgstr "Service client"
+
+#~ msgid "Technical support"
+#~ msgstr "Support technique"
+
+#~ msgid "Billing support"
+#~ msgstr "Support de facturation"
+
+#~ msgid "Bill payment"
+#~ msgstr "Paiement de factures"
+
+#~ msgid "Sales"
+#~ msgstr "Ventes"
+
+#~ msgid "Reservations"
+#~ msgstr "Réservations"
+
+#~ msgid "Credit card support"
+#~ msgstr "Support de carte de crédit"
+
+#~ msgid "Emergency"
+#~ msgstr "Urgences"
+
+#~ msgid "Baggage tracking"
+#~ msgstr "Suivi des bagages"
+
+#~ msgid "Roadside assistance"
+#~ msgstr "Assistance routière"
+
+#~ msgid "Package tracking"
+#~ msgstr "Suivi des colis"
+
+#~ msgid "Corporation"
+#~ msgstr "Société"
+
+#~ msgid "Educational Organization"
+#~ msgstr "Organisation éducative"
+
+#~ msgid "Government Organization"
+#~ msgstr "Organisation gouvernementale"
+
+#~ msgid "Non-Governmental Organization (NGO)"
+#~ msgstr "Organisation non gouvernementale (ONG)"
+
+#~ msgid "Performing Group"
+#~ msgstr "Groupe performant"
+
+#~ msgid "Sports Team"
+#~ msgstr "Équipe de sport"
+
+#~ msgid "Business Event"
+#~ msgstr "Événement d'affaires"
+
+#~ msgid "Childrens Event"
+#~ msgstr "Événement pour enfants"
+
+#~ msgid "Comedy Event"
+#~ msgstr "Comédie"
+
+#~ msgid "Dance Event"
+#~ msgstr "Événement de danse"
+
+#~ msgid "Educational Event"
+#~ msgstr "Événement éducatif"
+
+#~ msgid "Festival"
+#~ msgstr "Festival"
+
+#~ msgid "Food Event"
+#~ msgstr "Événement alimentaire"
+
+#~ msgid "Literary Event"
+#~ msgstr "Événement littéraire"
+
+#~ msgid "Music Event"
+#~ msgstr "Événement de musique"
+
+#~ msgid "Sales Event"
+#~ msgstr "Événement de vente"
+
+#~ msgid "Social Event"
+#~ msgstr "Événement social"
+
+#~ msgid "Theater Event"
+#~ msgstr "Événement de théâtre"
+
+#~ msgid "User Interaction"
+#~ msgstr "Interaction de l'utilisateur"
+
+#~ msgid "Visual Arts Event"
+#~ msgstr "Événement d'arts visuels"
+
+#~ msgid "Date of publication"
+#~ msgstr "Date de publication"
+
+#~ msgid "Title of the publication"
+#~ msgstr "Titre de la publication"
+
+#~ msgid "Title of the parent page"
+#~ msgstr "Titre de la page parente"
+
+#~ msgid "Name of the site"
+#~ msgstr "Nom du site"
+
+#~ msgid "Separator defined in the configuration"
+#~ msgstr "Séparateur défini dans la configuration"
+
+#~ msgid "Slogan of the site"
+#~ msgstr "Slogan du site"
+
+#~ msgid "Extract from the publication or auto-generated"
+#~ msgstr "Extrait de la publication ou généré automatiquement"
+
+#~ msgid "Extract from the publication without auto-generated"
+#~ msgstr "Extrait de la publication sans génération automatique"
+
+#~ msgid "Modification time"
+#~ msgstr "Heure de modification"
+
+#~ msgid "Product Name"
+#~ msgstr "Nom du produit"
+
+#~ msgid "Name of the author"
+#~ msgstr "Nom de l'auteur"
+
+#~ msgid "author ID"
+#~ msgstr "identifiant de l'auteur"
+
+#~ msgid "Biographical information"
+#~ msgstr "Informations biographiques"
+
+#~ msgid "Date of the archive"
+#~ msgstr "Date de l'archive"
+
+#~ msgid "Search phrase"
+#~ msgstr "Phrase rechercher"
+
+#~ msgid "Wordpress name"
+#~ msgstr "Nom du wordpress"
+
+#~ msgid "Separator"
+#~ msgstr "Séparateur"
+
+#~ msgid "Link to the authors archives"
+#~ msgstr "Lien vers les archives des auteurs"
+
+#~ msgid "Link to the publication"
+#~ msgstr "Lien vers la publication"
+
+#~ msgid "Link to the wordpress"
+#~ msgstr "Lien vers le wordpress"
+
+#~ msgid "Link to the wordpress with the description"
+#~ msgstr "Lien vers le wordpress avec la description"
+
+#~ msgid "This feature requires a subscription for is available"
+#~ msgstr "Cette fonctionnalité nécessite un abonnement pour être disponible"
+
+#~ msgid "Domain"
+#~ msgstr "Domaine"
+
+#~ msgid "Level of competition"
+#~ msgstr "Niveau de compétition"
+
+#~ msgid "Common keywords"
+#~ msgstr "Mots-clés communs"
+
+#~ msgid "Seo Keywords"
+#~ msgstr "Mots-clés seo"
+
+#~ msgid "Costs"
+#~ msgstr "Coût"
+
+#~ msgid "Keyword"
+#~ msgstr "Mot-clé"
+
+#~ msgid "Position acquired"
+#~ msgstr "Position acquise"
+
+#~ msgid "Difficulty"
+#~ msgstr "Difficulté"
+
+#~ msgid "Not available with your subscription"
+#~ msgstr "Non disponible avec votre abonnement"
+
+#~ msgid ""
+#~ "Your subscription does not include these tools, if you wish you can "
+#~ "change offer to benefit from this tools"
+#~ msgstr ""
+#~ "Votre abonnement n'inclut pas ces outils, si vous le souhaitez, vous "
+#~ "pouvez modifier l'offre pour pouvoir bénéficier de ces outils"
+
+#~ msgid ""
+#~ "You have used the number of searches available in your offer, you must "
+#~ "wait for your next billing to receive additional searches"
+#~ msgstr ""
+#~ "Vous avez utilisé le nombre de recherches disponibles dans votre offre, "
+#~ "vous devez attendre votre prochaine facturation pour recevoir des "
+#~ "recherches supplémentaires"
+
+#~ msgid "Associated with your subscription"
+#~ msgstr "Associé à votre abonnement"
+
+#~ msgid "It is well tempted"
+#~ msgstr "C'est bien tenté"
+
+#~ msgid "Serp"
+#~ msgstr "Serp"
+
+#~ msgid "We have no results for the moment regarding this keyword"
+#~ msgstr "Nous n'avons aucun résultat pour le moment concernant ce mot clé"
+
+#~ msgid "Daily search exceeded"
+#~ msgstr "Recherche quotidienne dépassée"
+
+#~ msgid ""
+#~ "You have exceeded the number of authorized searches, you will be able to "
+#~ "carry out new research as of tomorrow"
+#~ msgstr ""
+#~ "Vous avez dépassé le nombre de recherches autorisées, vous pourrez "
+#~ "effectuer de nouvelles recherches à partir de demain"
+
+#~ msgid "Ongoing treatment"
+#~ msgstr "Traitement en cours"
+
+#~ msgid "Show _MENU_"
+#~ msgstr "Afficher _MENU_"
+
+#~ msgid "Showing _START_ to _END_ on _TOTAL_ items"
+#~ msgstr "Affichage de _START_ à _END_ sur _TOTAL_ éléments"
+
+#~ msgid "Showing item 0 to 0 of 0 items"
+#~ msgstr "Affiche les articles de 0 à 0 sur 0"
+
+#~ msgid "(filtered from _MAX_ total items)"
+#~ msgstr "(filtré à partir du nombre d'éléments _MAX_)"
+
+#~ msgid "Loading"
+#~ msgstr "Chargement en cours"
+
+#~ msgid "No items to display"
+#~ msgstr "Aucun élément à afficher"
+
+#~ msgid "No data available in the table"
+#~ msgstr "Aucune donnée disponible dans le tableau"
+
+#~ msgid "First"
+#~ msgstr "Premier"
+
+#~ msgid "Previous"
+#~ msgstr "Précédent"
+
+#~ msgid "Next"
+#~ msgstr "Suivant"
+
+#~ msgid "Latest"
+#~ msgstr "Dernier"
+
+#~ msgid "activate to sort the column in ascending order"
+#~ msgstr "activer pour trier la colonne par ordre croissant"
+
+#~ msgid "activate to sort the column in descending order"
+#~ msgstr "activer pour trier la colonne par ordre décroissant"
+
+#~ msgid "Add a new keyword"
+#~ msgstr "Ajouter un nouveau mot clé"
+
+#~ msgid "You must add your main keyword"
+#~ msgstr "Vous devez ajouter votre mot clé principal"
+
+#~ msgid ""
+#~ "Unfortunately, we cannot provide you with content ideas. Your keyword has "
+#~ "little result or the language of your document does not match your keyword"
+#~ msgstr ""
+#~ "Malheureusement, nous ne pouvons pas vous fournir d'idées de contenu. "
+#~ "Votre mot clé a peu de résultats ou la langue de votre document ne "
+#~ "correspond pas à votre mot clé"
+
+#~ msgid "We did not find any synonym"
+#~ msgstr "Nous n'avons trouvé aucun synonyme"
+
+#~ msgid ""
+#~ "Unfortunately, we can not say what the search engines understood from "
+#~ "your text. The content of your text is not enough or the language of your "
+#~ "account does not match your text"
+#~ msgstr ""
+#~ "Malheureusement, nous ne pouvons pas dire ce que les moteurs de recherche "
+#~ "ont compris dans votre texte. Le contenu de votre texte ne suffit pas ou "
+#~ "la langue de votre compte ne correspond pas à votre texte"
+
+#~ msgid "We have no questions available at the moment"
+#~ msgstr "Nous n'avons aucun questionnement disponible pour le moment"
+
+#~ msgid "We have no synonymous available at the moment"
+#~ msgstr "Nous n'avons pas de synonyme disponible pour le moment"
+
+#~ msgid "Saved successfully"
+#~ msgstr "Enregistré avec succès"
+
+#~ msgid "Your settings have been saved"
+#~ msgstr "Vos réglages ont été sauvegardés"
+
+#~ msgid "Saved failed"
+#~ msgstr "Enregistré a échoué"
+
+#~ msgid "Your settings have not been saved, please try again"
+#~ msgstr "Vos paramètres n'ont pas été enregistrés. Veuillez réessayer"
+
+#~ msgid "File edit successfully"
+#~ msgstr "Fichier modifier avec succès"
+
+#~ msgid "Modification of the file has been saved"
+#~ msgstr "La modification du fichier a été sauvegardée"
+
+#~ msgid "File edit failed"
+#~ msgstr "Modification du fichier échoué"
+
+#~ msgid "The changes to the file have not been saved, please try again"
+#~ msgstr ""
+#~ "Les modifications apportées au fichier n'ont pas été enregistrées. "
+#~ "Veuillez réessayer"
+
+#~ msgid "Successful reset"
+#~ msgstr "Réinitialisation réussie"
+
+#~ msgid "Reset options have been completed"
+#~ msgstr "La réinitialisation des options à été effectué"
+
+#~ msgid "Reset failed"
+#~ msgstr "La réinitialisation a échoué"
+
+#~ msgid "Reset options has not been done, please try again"
+#~ msgstr ""
+#~ "La réinitialisation des options n'a pas été effectuées, veuillez réessayer"
+
+#~ msgid "Successful import"
+#~ msgstr "Importation réussie"
+
+#~ msgid "Your settings have been successfully imported"
+#~ msgstr "Vos paramètres ont été importés avec succès"
+
+#~ msgid "Import failed"
+#~ msgstr "Échec de l'importation"
+
+#~ msgid "The import of your settings has not been done, please try again"
+#~ msgstr ""
+#~ "L'importation de vos paramètres n'a pas été effectuée. Veuillez réessayer"
+
+#~ msgid "Successful keyword add"
+#~ msgstr "Ajout de mot clé réussi"
+
+#~ msgid "The keyword has been added in your strategy"
+#~ msgstr "Le mot clé a été ajouté dans votre stratégie"
+
+#~ msgid "Keyword add failed"
+#~ msgstr "Echec de l'ajout du mot clé"
+
+#~ msgid "Can not add the keyword in your strategy, please try again"
+#~ msgstr ""
+#~ "Impossible d'ajouter le mot clé dans votre stratégie, veuillez réessayer"
+
+#~ msgid "Successful keyword remove"
+#~ msgstr "Suppression du mot clé réussi"
+
+#~ msgid "The keyword has been removed from your strategy"
+#~ msgstr "Le mot clé a été supprimé de votre stratégie"
+
+#~ msgid "Keyword remove failed"
+#~ msgstr "Suppression du mot clé a échoué"
+
+#~ msgid "Unable to remove the keyword from your strategy, please try again"
+#~ msgstr ""
+#~ "Impossible de supprimer le mot clé de votre stratégie, veuillez réessayer"
+
+#~ msgid "Successful Updated name"
+#~ msgstr "Nom mis à jour avec succès"
+
+#~ msgid "The name of your strategy has been updated"
+#~ msgstr "Le nom de votre stratégie a été mis à jour"
+
+#~ msgid "Updated name failed"
+#~ msgstr "Mis à jour du nom a échoué"
+
+#~ msgid "Unable to update the name of your strategy, please try again"
+#~ msgstr ""
+#~ "Impossible de mettre à jour le nom de votre stratégie, veuillez réessayer"
+
+#~ msgid "No keyword suggestions are currently available for your main keyword"
+#~ msgstr ""
+#~ "Aucune suggestion de mot clé n'est actuellement disponible pour votre mot "
+#~ "clé principal"
+
+#~ msgid "Please, insert your expression, query or keyword"
+#~ msgstr "S'il vous plaît, insérez votre expression, requête ou mot clé"
+
+#~ msgid "volume"
+#~ msgstr "volume"
+
+#~ msgid "Analysis tools in maintenance"
+#~ msgstr "Outils d'analyse en maintenance"
+
+#~ msgid ""
+#~ "In order to always be able to provide you with quality service, we are "
+#~ "currently performing maintenance operations"
+#~ msgstr ""
+#~ "Afin de toujours être en mesure de vous apporter un service de qualité, "
+#~ "nous effectuons en ce moment des opérations de maintenance"
+
+#~ msgid "We can not analyze this document"
+#~ msgstr "Nous ne pouvons pas analyser ce document"
+
+#~ msgid ""
+#~ "The information transmitted is incorrect and no longer guarantees the "
+#~ "results. This document is lock for analysis, you can contact rank4win for "
+#~ "more information"
+#~ msgstr ""
+#~ "Les informations transmises sont erronées et ne garantissent plus les "
+#~ "résultats. Ce document est verrouiller pour les analyse, vous pouvez "
+#~ "contacter rank4win pour plus d'information"
+
+#~ msgid "Secondary keyword"
+#~ msgstr "Mot-clé secondaire"
+
+#~ msgid "Lexical keyword"
+#~ msgstr "Mot-clé lexical"
+
+#~ msgid "Overall Score"
+#~ msgstr "Score global"
+
+#~ msgid "Idea of content"
+#~ msgstr "Idée de contenu"
+
+#~ msgid "Easily understood by an average 4th-grade student or lower"
+#~ msgstr "Facilement compris par un élève moyen de CM1 ou moins"
+
+#~ msgid "Easily understood by an average 5th or 6th-grade student"
+#~ msgstr ""
+#~ "Facilement compris par un élève moyen de CM2 ou un collégien de sixième"
+
+#~ msgid "Easily understood by an average 7th or 8th-grade student"
+#~ msgstr "Facilement compris par un collégien de cinquième ou quatrième"
+
+#~ msgid "Easily understood by an average 9th or 10th-grade student"
+#~ msgstr ""
+#~ "Facilement compris par un collégien de troisième ou un lycéen de seconde"
+
+#~ msgid "Easily understood by an average 11th or 12th-grade student"
+#~ msgstr "Facilement compris par un lycéen de première ou de terminale"
+
+#~ msgid "Easily understood by an average 13th to 15th-grade (college) student"
+#~ msgstr "Facilement compris par un étudiant en faculté ou en université"
+
+#~ msgid "Easily understood by an average college graduate"
+#~ msgstr "Facilement compris par un diplômé de faculté ou d'une université"
+
+#~ msgid "Very difficult"
+#~ msgstr "Très difficile"
+
+#~ msgid "Difficult"
+#~ msgstr "Difficile"
+
+#~ msgid "Quite difficult"
+#~ msgstr "Assez difficile"
+
+#~ msgid "Easily understandable"
+#~ msgstr "Facilement compréhensible"
+
+#~ msgid "Easy enough"
+#~ msgstr "Assez facile"
+
+#~ msgid "Easy"
+#~ msgstr "Facile"
+
+#~ msgid "Very easy"
+#~ msgstr "Très facile"
+
+#~ msgid "Goal"
+#~ msgstr "Objectif"
+
+#~ msgid "Target Keywords"
+#~ msgstr "Mots-clés cibles"
+
+#~ msgid "Title structures"
+#~ msgstr "Structures de titre"
+
+#~ msgid "Main keyword in title"
+#~ msgstr "Mot clé principal dans le titre"
+
+#~ msgid "The title has a good length"
+#~ msgstr "Le titre a une bonne longueur"
+
+#~ msgid "Text structures"
+#~ msgstr "Structures de texte"
+
+#~ msgid "Main keyword in H1 tag"
+#~ msgstr "Mot clé principal dans la balise H1"
+
+#~ msgid "Secondary Keywords in H2 tags"
+#~ msgstr "Mots-clés secondaires dans les balises H2"
+
+#~ msgid "Lexical keywords in H3 tags"
+#~ msgstr "Mots-clés lexicaux dans les balises H3"
+
+#~ msgid "Some keywords in H4 / H5 / H6 tags"
+#~ msgstr "Quelques mots-clés dans les balises H4 / H5 / H6"
+
+#~ msgid "Main keyword in the hat"
+#~ msgstr "Mot clé dans le chapeau"
+
+#~ msgid "Number of words in your paragraph"
+#~ msgstr "Nombre de mots dans votre paragraphe"
+
+#~ msgid "Presence rate of the main keyword"
+#~ msgstr "Taux de présence du mot clé principal"
+
+#~ msgid "Rate of sentences with a transition word"
+#~ msgstr "Taux de phrases avec un mot de transition"
+
+#~ msgid "The average of your sentences have a good length"
+#~ msgstr "La moyenne des phrases a une bonne longueur"
+
+#~ msgid "Main keyword in bold in a paragraph"
+#~ msgstr "Mot clé principal en gras dans un paragraphe"
+
+#~ msgid "Presence of an image in the text"
+#~ msgstr "Présence d'une image dans le texte"
+
+#~ msgid "Main keyword in alt tag"
+#~ msgstr "Mot clé principal dans la balise alt"
+
+#~ msgid "Length of the text"
+#~ msgstr "Longueur du texte"
+
+#~ msgid "Title length too short"
+#~ msgstr "Longueur du titre trop court"
+
+#~ msgid "Title length too long"
+#~ msgstr "Longueur du titre trop long"
+
+#~ msgid ""
+#~ "Write a paragraph of 150 words minimum, which summarizes all the content "
+#~ "of the page %s this reinforces this page lexically and will be a semantic "
+#~ "gateway to the child page"
+#~ msgstr ""
+#~ "Écrivez un paragraphe de 150 mots minimum, qui résume tout le contenu de "
+#~ "la page %s, ce qui renforce cette page lexicalement et constituera une "
+#~ "passerelle sémantique vers la page enfant"
+
+#~ msgid "per day"
+#~ msgstr "par jour"
+
+#~ msgid "per week"
+#~ msgstr "par semaine"
+
+#~ msgid "per month"
+#~ msgstr "par mois"
+
+#~ msgid "per year"
+#~ msgstr "par an"
+
+#~ msgid "Score %s"
+#~ msgstr "Score %s"
+
+#~ msgid "password"
+#~ msgstr "mot de passe"
+
+#~ msgid ""
+#~ "Before you can change your password, you must enter the verification code "
+#~ "received by e-mail"
+#~ msgstr ""
+#~ "Avant de pouvoir changer votre mot de passe, vous devez entrer le code de "
+#~ "vérification reçu par e-mail"
+
+#~ msgid ""
+#~ "Before you can use your account you must, please enter the verification "
+#~ "code received by e-mail"
+#~ msgstr ""
+#~ "Avant de pouvoir utiliser votre compte, vous devez saisir le code de "
+#~ "vérification reçu par e-mail"
+
+#~ msgid "confirm password"
+#~ msgstr "confirmation du mot de passe"
+
+#~ msgid "Name of %s"
+#~ msgstr "Nom %s"
+
+#~ msgid "Parent category"
+#~ msgstr "Catégorie parente"
+
+#~ msgid "Description of %s"
+#~ msgstr "Description %s"
+
+#~ msgid "Facebook"
+#~ msgstr "Facebook"
+
+#~ msgid "Twitter"
+#~ msgstr "Twitter"
+
+#~ msgid "Shortcode"
+#~ msgstr "Shortcode"
+
+#~ msgid "Link"
+#~ msgstr "Lien"
+
+#~ msgid "By default"
+#~ msgstr "Par défaut"
+
+#~ msgid "No information"
+#~ msgstr "Aucune information"
+
+#~ msgid "This option allows you to enable the analysis in %s"
+#~ msgstr "Cette option vous permet d'activer l'analyse dans vos %s"
+
+#~ msgid "Replace the meta tag %s"
+#~ msgstr "Remplacer la balise meta %s"
+
+#~ msgid "Allow editing the meta tag in %s"
+#~ msgstr "Autoriser la modification de la balise META dans %s"
+
+#~ msgid "Allow search engines to index this %s"
+#~ msgstr "Autoriser les moteurs de recherche à indexer %s"
+
+#~ msgid "This option allows you to ask the search engines to index the %s"
+#~ msgstr ""
+#~ "Cette option vous permet de demander aux moteurs de recherche d’indexer %s"
+
+#~ msgid "Allow search engines to follow the links in the %s"
+#~ msgstr "Autoriser les moteurs de recherche à suivre les liens dans %s"
+
+#~ msgid "This option allows search engine robots to follow links from the %s"
+#~ msgstr ""
+#~ "Cette option permet aux robots des moteurs de recherche de suivre les "
+#~ "liens %s"
+
+#~ msgid "Download the configuration file"
+#~ msgstr "Télécharger le fichier de configuration"
+
+#~ msgid "Import the configuration file"
+#~ msgstr "Importer le fichier de configuration"
+
+#~ msgid "Configuration file"
+#~ msgstr "Fichier de configuration"
+
+#~ msgid ""
+#~ "Be careful when editing this file. These changes may prevent your "
+#~ "wordpress, your themes or plugin from working properly. Make these "
+#~ "changes only if you are safe without causing problems"
+#~ msgstr ""
+#~ "Soyez prudent en modifiant ce fichier. Ces changements peuvent empêcher "
+#~ "votre WordPress, vos thèmes ou vos plugins de fonctionner correctement. "
+#~ "Ne faites ces modifications que si vous êtes un expert. Rank4Win ne sera "
+#~ "en aucun cas tenu responsable de tout disfonctionnement causé par vos "
+#~ "modifications"
+
+#~ msgid "Save"
+#~ msgstr "Sauvegarder"
+
+#~ msgid "File content"
+#~ msgstr "Contenu du fichier"
+
+#~ msgid ""
+#~ "Rank4Win is an ultra powerful new generation SEO tool & helps you "
+#~ "multiply your traffic. All you need to reach the first page of Google! We "
+#~ "created Rank4win, a WordPress SEO plugin, to make it easier for every "
+#~ "website owner to build keyword strategy, to create a Semantic Structure "
+#~ "to reinforce the natrual SEO of their site, to have help with Optimizing "
+#~ "Content Writing and Enrichment lexicalment and semantically."
+#~ msgstr ""
+#~ "Rank4Win est un outil de référencement de nouvelle génération ultra "
+#~ "puissant qui vous aide à multiplier votre trafic. Tout ce dont vous avez "
+#~ "besoin pour atteindre la première page de Google! Nous avons créé "
+#~ "Rank4win, un plugin SEO WordPress, pour permettre à chaque propriétaire "
+#~ "de site Web de créer plus facilement une stratégie de mots clés, de créer "
+#~ "une structure sémantique afin de renforcer le référencement naturel de "
+#~ "leur site, afin de vous aider à optimiser la rédaction et "
+#~ "l'enrichissement lexicalement et la gestion sémantique."
